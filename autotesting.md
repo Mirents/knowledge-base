@@ -60,6 +60,7 @@
 * [Пишем систему автоматизированных тестов "с нуля"][automation_from_scratch]
 * [Автоматизация тестирования на максималках. Доклад Яндекса][habr_506094]
 * [Автоматизация тестирования в микросервисной архитектуре][habr_509280]
+* [Ядро автоматизации тестирования в микросервисной архитектуре][habr_333644]
 
 [habr_565806]: https://habr.com/ru/post/565806/
 [habr_523802]: https://habr.com/ru/company/protei/blog/523802/
@@ -68,4 +69,5 @@
 [automation_from_scratch]: http://www.protesting.ru/automation/practice/automation_from_scratch.html
 [habr_506094]: https://habr.com/ru/company/yandex/blog/506094/
 [habr_509280]: https://habr.com/ru/company/avito/blog/509280/
+[habr_333644]: https://habr.com/ru/company/avito/blog/333644/
 </details>
