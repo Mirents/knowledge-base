@@ -1,6 +1,6 @@
-<details Курсы><summary>Бесплатные курсы</summary>
+<details РљСѓСЂСЃС‹><summary>Р‘РµСЃРїР»Р°С‚РЅС‹Рµ РєСѓСЂСЃС‹</summary>
 
-* [Чек-лист по тестированию HTML-верстки][freecodecamp]
+* [Р§РµРє-Р»РёСЃС‚ РїРѕ С‚РµСЃС‚РёСЂРѕРІР°РЅРёСЋ HTML-РІРµСЂСЃС‚РєРё][freecodecamp]
 
 [java-auto]: https://comaqa.gitbook.io/java-automation/
 * [[freecodecamp]][freecodecamp]
@@ -8,9 +8,9 @@
 [freecodecamp]: https://www.freecodecamp.org/
 </details>
 
-<details Ссылки><summary>Тестирование</summary>
+<details РЎСЃС‹Р»РєРё><summary>РўРµСЃС‚РёСЂРѕРІР°РЅРёРµ</summary>
 
-* [Чек-лист по тестированию HTML-верстки][testirovanie-html-verstki]
+* [Р§РµРє-Р»РёСЃС‚ РїРѕ С‚РµСЃС‚РёСЂРѕРІР°РЅРёСЋ HTML-РІРµСЂСЃС‚РєРё][testirovanie-html-verstki]
 
 [testirovanie-html-verstki]: https://www.100up.ru/testirovanie-html-verstki/
 </details>
