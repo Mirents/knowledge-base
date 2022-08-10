@@ -92,3 +92,14 @@
 [plantuml_editor_1]: https://www.planttext.com/
 [plantuml_editor_2]: https://plantuml-editor.kkeisuke.com/
 </details>
+
+### Курсы
+
+<details Бесплатные курсы><summary>Бесплатные курсы</summary>
+
+* [Площадка freecodecamp][freecodecamp]
+* [Площадка W3Schools][w3schools]
+
+[freecodecamp]: https://www.freecodecamp.org/
+[w3schools]: https://www.w3schools.com/
+</details>
