@@ -1,4 +1,4 @@
-<details Ссылки><summary>Полезные инструкции</summary>
+<details РЎСЃС‹Р»РєРё><summary>РџРѕР»РµР·РЅС‹Рµ РёРЅСЃС‚СЂСѓРєС†РёРё</summary>
 
 * [Google Java Style Guide English][javaguide_eng]
 * [Google Java Style Guide Russian][javaguide_rus]
