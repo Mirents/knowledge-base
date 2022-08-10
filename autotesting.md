@@ -43,7 +43,45 @@
 [habr_359302]: https://habr.com/ru/company/sberbank/blog/359302/
 </details>
 
+<details Maven><summary>Maven</summary>
+
+* [Официальная документация][maven_docs]
+* [Фреймворк Apache Maven][maven_framework]
+* [Maven плагины для сборки проекта][maven_plugins]
+
+[maven_docs]: https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+[maven_framework]: https://java-online.ru/maven-pom.xhtml
+[maven_plugins]: https://java-online.ru/maven-plugins.xhtml
+</details>
+
+<details Работа с БД><summary>Работа с БД</summary>
+
+* [JDBC - Java DataBase Connectivity][jdbc]
+* [SQL Задачи и решения][jdbc]
+
+[jdbc]: https://java-online.ru/jdbc.xhtml
+[sql_learn]: http://www.sql-tutorial.ru/ru/content.html
+[jdbc]: https://www.w3schools.com/sql/default.asp
+</details>
+
+<details Заглушки><summary>Заглушки</summary>
+
+* [Mockito][mockito_site]
+
+[mockito_site]: https://site.mockito.org/
+</details>
+
+<details XPath><summary>XPath</summary>
+
+* [Write Effective XPaths (Eng)][write_effective_xpaths]
+* [XPath в примерах][xpath_tutorial]
+
+[write_effective_xpaths]: https://www.toolsqa.com/selenium-webdriver/write-effective-xpaths/
+[xpath_tutorial]: http://zvon.org/xxl/XPathTutorial/Output_rus/
+</details>
+
 ### Ссылки
+
 <details Курсы><summary>Бесплатные курсы</summary>
 
 * [Java для автоматизаторов][java-auto]
