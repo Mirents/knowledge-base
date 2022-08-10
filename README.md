@@ -1,3 +1,5 @@
+<details Test><summary>Общий блок</summary>
+
 <details Reload maven><summary>IntelliJ IDEA - Перезагрузка Maven-проекта</summary>
 
 ```
@@ -33,4 +35,6 @@
 [markdownguide]: https://www.markdownguide.org/basic-syntax/
 [javaguide_eng]: https://google.github.io/styleguide/javaguide.html
 [javaguide_rus]: https://google.github.io/styleguide/javaguide.html
+</details>
+
 </details>
