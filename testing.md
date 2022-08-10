@@ -1,11 +1,9 @@
 <details Курсы><summary>Бесплатные курсы</summary>
 
-* [Чек-лист по тестированию HTML-верстки][freecodecamp]
-
-[java-auto]: https://comaqa.gitbook.io/java-automation/
-* [[freecodecamp]][freecodecamp]
+* [Площадка freecodecamp][freecodecamp]
 
 [freecodecamp]: https://www.freecodecamp.org/
+
 </details>
 
 <details Ссылки><summary>Тестирование</summary>
