@@ -1,4 +1,4 @@
-<details Ссылки><summary>Полезные инструкции</summary>
+<details РЎСЃС‹Р»РєРё><summary>РџРѕР»РµР·РЅС‹Рµ РёРЅСЃС‚СЂСѓРєС†РёРё</summary>
 
 * [Markdown Guide][markdownguide]
 
