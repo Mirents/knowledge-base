@@ -1,16 +1,16 @@
-<details Reload maven><summary>IntelliJ IDEA - Перезагрузка Maven-проекта</summary>
+<details Reload maven><summary>IntelliJ IDEA - РџРµСЂРµР·Р°РіСЂСѓР·РєР° Maven-РїСЂРѕРµРєС‚Р°</summary>
 
 ```
 1. mvn -U clean install
-2. Нажать на всплывающем окне справа 'Maven' и затем нажать 'Круглые стрелки'
+2. РќР°Р¶Р°С‚СЊ РЅР° РІСЃРїР»С‹РІР°СЋС‰РµРј РѕРєРЅРµ СЃРїСЂР°РІР° 'Maven' Рё Р·Р°С‚РµРј РЅР°Р¶Р°С‚СЊ 'РљСЂСѓРіР»С‹Рµ СЃС‚СЂРµР»РєРё'
 3. File -> Prefences -> Build, Execution, Deployment -> Build Tools -> Maven -> Repositories - Choose repoitory - Click Update
 ```
 
 </details>
 
-<details Курсы><summary>Бесплатные курсы</summary>
+<details РљСѓСЂСЃС‹><summary>Р‘РµСЃРїР»Р°С‚РЅС‹Рµ РєСѓСЂСЃС‹</summary>
 
-* [Java для автоматизаторов][java-auto]
+* [Java РґР»СЏ Р°РІС‚РѕРјР°С‚РёР·Р°С‚РѕСЂРѕРІ][java-auto]
 
 [java-auto]: https://comaqa.gitbook.io/java-automation/
 </details>
