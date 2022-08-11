@@ -8,11 +8,50 @@
 
 </details>
 
-<details Ссылки><summary>Полезные инструкции</summary>
+<details Полезные инструкции><summary>Полезные инструкции</summary>
 
-* [Google Java Style Guide English][javaguide_eng]
-* [Google Java Style Guide Russian][javaguide_rus]
+* [Google Java Style Guide (Eng)][javaguide_eng]
+* [Google Java Style Guide (Rus)][javaguide_rus]
+* [Google Java Style Guide (Rus)][javaguide_rus_skillbox]
+* [Google Java Style Guide (Rus)][javaguide_rus]
 
 [javaguide_eng]: https://google.github.io/styleguide/javaguide.html
-[javaguide_rus]: https://google.github.io/styleguide/javaguide.html
+[javaguide_rus]: https://habr.com/ru/post/112042/
+[javaguide_rus_skillbox]: https://skillbox.ru/media/base/java_code_style_kak_pravilno_oformlyat_kod_java/
+
+</details>
+
+<details Ссылки><summary>Ссылки</summary>
+
+* [Справочник по Java Collections Framework][habr_237043]
+* [Структуры данных в Java. Полезные методы вспомогательных классов][habr_476098]
+* [Структуры данных в картинках. HashMap][habr_128017]
+* [Структуры данных в картинках. LinkedHashMap][habr_129037]
+* [Структуры данных в картинках. ArrayList][habr_128269]
+* [Структуры данных в картинках. LinkedList][habr_127864]
+* [Шпаргалка Java программиста 1: JPA и Hibernate в вопросах и ответах][habr_265061]
+* [Шпаргалка Java программиста 2: Триста пятьдесят самых популярных не мобильных Java opensource проектов на github][habr_266821]
+* [Шпаргалка Java программиста 3. Коллекции в Java (стандартные, guava, apache, trove, gs-collections и другие)][habr_256877]
+* [Шпаргалка Java программиста 4. Java Stream API][habr_270383]
+* [Шпаргалка Java-программиста 5. Двести пятьдесят русскоязычных обучающих видео докладов и лекций о Java][habr_272025]
+* [Шпаргалка Java-программиста 6. Список полезных ссылок для Java программиста][habr_280784]
+* [Шпаргалка Java программиста 7.1 Типовые задачи: Оптимальный путь преобразования InputStream в строку][habr_278233]
+* [Шпаргалка Java программиста 7.2 Типовые задачи: Обход Map'ы, подсчет количества вхождений подстроки][habr_278313]
+* [Шпаргалка Java программиста 8. Библиотеки для работы с Json (Gson, Fastjson, LoganSquare, Jackson, JsonPath и другие)][habr_280782]
+
+[habr_237043]: https://habr.com/ru/post/237043/
+[habr_476098]: https://habr.com/ru/company/epam_systems/blog/476098/
+[habr_128017]: https://habr.com/ru/post/128017/
+[habr_129037]: https://habr.com/ru/post/129037/
+[habr_128269]: https://habr.com/ru/post/128269/
+[habr_127864]: https://habr.com/ru/post/127864/
+[habr_265061]: https://habr.com/ru/post/265061/
+[habr_266821]: https://habr.com/ru/post/266821/
+[habr_256877]: https://habr.com/ru/company/luxoft/blog/256877/
+[habr_270383]: https://habr.com/ru/company/luxoft/blog/270383/
+[habr_272025]: https://habr.com/ru/company/luxoft/blog/272025/
+[habr_280784]: https://habr.com/ru/company/luxoft/blog/280784/
+[habr_278233]: https://habr.com/ru/company/luxoft/blog/278233/
+[habr_278313]: https://habr.com/ru/company/luxoft/blog/278313/
+[habr_280782]: https://habr.com/ru/company/luxoft/blog/280782/
 </details>
