@@ -69,9 +69,15 @@
 
 <details Заглушки><summary>Заглушки</summary>
 
-* [Mockito][mockito_site]
+* [Mockito - официальный сайт][mockito_site]
+* [WireMock - официальный сайт][wiremock_site]
+* [WireMock – швейцарский нож в арсенале тестировщика. Часть 1][habr_679276]
+* [WireMock – швейцарский нож в арсенале тестировщика. Часть 2][habr_679330]
 
 [mockito_site]: https://site.mockito.org/
+[wiremock_site]: https://wiremock.org/
+[habr_679276]: https://habr.com/ru/company/rostelecom/blog/679276/
+[habr_679330]: https://habr.com/ru/company/rostelecom/blog/679330/
 </details>
 
 <details JUnit 5><summary>JUnit 5</summary>
@@ -142,6 +148,7 @@
 * [Автоматизация тестирования на максималках. Доклад Яндекса][habr_506094]
 * [Автоматизация тестирования в микросервисной архитектуре][habr_509280]
 * [Ядро автоматизации тестирования в микросервисной архитектуре][habr_333644]
+* [Если у вас нет собаки…][habr_350238]
 
 [habr_565806]: https://habr.com/ru/post/565806/
 [habr_523802]: https://habr.com/ru/company/protei/blog/523802/
@@ -151,4 +158,5 @@
 [habr_506094]: https://habr.com/ru/company/yandex/blog/506094/
 [habr_509280]: https://habr.com/ru/company/avito/blog/509280/
 [habr_333644]: https://habr.com/ru/company/avito/blog/333644/
+[habr_350238]: https://habr.com/ru/company/alfa/blog/350238/
 </details>
