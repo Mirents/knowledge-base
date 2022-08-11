@@ -97,9 +97,11 @@
 
 <details Бесплатные курсы><summary>Бесплатные курсы</summary>
 
-* [Площадка freecodecamp][freecodecamp]
-* [Площадка W3Schools][w3schools]
+* [Площадка freecodecamp][freecodecamp] - обширная база курсов на различные тематики
+* [Площадка W3Schools][w3schools] - обширная база курсов на различные тематики
+* [Площадка ProgLang][proglang] - самоучитель Java, HTML, CSS
 
 [freecodecamp]: https://www.freecodecamp.org/
 [w3schools]: https://www.w3schools.com/
+[proglang]: http://proglang.su/
 </details>
