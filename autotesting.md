@@ -71,6 +71,13 @@
 [mockito_site]: https://site.mockito.org/
 </details>
 
+<details Lombok><summary>Lombok</summary>
+
+* [Project Lombok][projectlombok]
+
+[projectlombok]: https://projectlombok.org/features/
+</details>
+
 <details Selenium><summary>Selenium</summary>
 
 * [Официальная документация][selenium_docs]
