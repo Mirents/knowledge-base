@@ -8,7 +8,7 @@
 
 </details>
 
-<details Полезные инструкции><summary>Полезные инструкции</summary>
+<details Java Style Guide><summary>Java Style Guide</summary>
 
 * [Google Java Style Guide (Eng)][javaguide_eng]
 * [Google Java Style Guide (Rus)][javaguide_rus]
