@@ -71,6 +71,25 @@
 [mockito_site]: https://site.mockito.org/
 </details>
 
+<details Selenium><summary>Selenium</summary>
+
+* [Официальная документация][selenium_docs]
+* [How to use implicit and explicit waits in Selenium (Eng)][implicit_and_explicit_waits]
+* [JavaScript and Selenium JavaScriptExecutor (Eng)][toolsqa_javascriptexecutor]
+* [Scroll Web elements and Web page Selenium WebDriver using Javascript (Eng)][toolsqa_scroll_element]
+* [Custom Firefox Profile for Selenium (Eng)][toolsqa_custom_firefox_profile]
+* [Selenium WebDriver Event Listener (Eng)][toolsqa_event_listener]
+* [@CacheLookup in PageObjectModel (Eng)][toolsqa_cachelookup]
+
+[selenium_docs]: https://www.selenium.dev/documentation/webdriver/
+[implicit_and_explicit_waits]: https://itnext.io/how-to-using-implicit-and-explicit-waits-in-selenium-d1ba53de5e15
+[toolsqa_javascriptexecutor]: https://www.toolsqa.com/selenium-webdriver/javascript-and-selenium-javascriptexecutor/
+[toolsqa_scroll_element]: https://www.toolsqa.com/selenium-webdriver/scroll-element-view-selenium-javascript/
+[toolsqa_custom_firefox_profile]: https://www.toolsqa.com/selenium-webdriver/custom-firefox-profile/
+[toolsqa_event_listener]: https://www.toolsqa.com/selenium-webdriver/event-listener/
+[toolsqa_cachelookup]: https://www.toolsqa.com/selenium-webdriver/cachelookup-in-pageobjectmodel/
+</details>
+
 <details XPath><summary>XPath</summary>
 
 * [Write Effective XPaths (Eng)][write_effective_xpaths]
@@ -78,6 +97,13 @@
 
 [write_effective_xpaths]: https://www.toolsqa.com/selenium-webdriver/write-effective-xpaths/
 [xpath_tutorial]: http://zvon.org/xxl/XPathTutorial/Output_rus/
+</details>
+
+<details Visual Testing><summary>Visual Testing</summary>
+
+* [Automated Visual Testing using aShot and Selenium Web driver (Eng)][techblog_ashot]
+
+[techblog_ashot]: https://techblog.dotdash.com/automated-visual-testing-using-ashot-and-selenium-webdriver-e1da268b74c8
 </details>
 
 ### Ссылки
