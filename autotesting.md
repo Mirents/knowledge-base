@@ -71,6 +71,13 @@
 [mockito_site]: https://site.mockito.org/
 </details>
 
+<details JUnit 5><summary>JUnit 5</summary>
+
+* [Официальная документация][junit5_docs]
+
+[junit5_docs]: https://junit.org/junit5/docs/current/user-guide/
+</details>
+
 <details Lombok><summary>Lombok</summary>
 
 * [Project Lombok][projectlombok]
