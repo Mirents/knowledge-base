@@ -38,6 +38,7 @@
 * [Шпаргалка Java программиста 7.1 Типовые задачи: Оптимальный путь преобразования InputStream в строку][habr_278233]
 * [Шпаргалка Java программиста 7.2 Типовые задачи: Обход Map'ы, подсчет количества вхождений подстроки][habr_278313]
 * [Шпаргалка Java программиста 8. Библиотеки для работы с Json (Gson, Fastjson, LoganSquare, Jackson, JsonPath и другие)][habr_280782]
+* [Полезные и неизвестные возможности Java][habr_599603]
 
 [habr_237043]: https://habr.com/ru/post/237043/
 [habr_476098]: https://habr.com/ru/company/epam_systems/blog/476098/
@@ -54,4 +55,5 @@
 [habr_278233]: https://habr.com/ru/company/luxoft/blog/278233/
 [habr_278313]: https://habr.com/ru/company/luxoft/blog/278313/
 [habr_280782]: https://habr.com/ru/company/luxoft/blog/280782/
+[habr_599603]: https://habr.com/ru/post/599603/
 </details>
