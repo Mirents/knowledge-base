@@ -93,17 +93,24 @@
 [plantuml_editor_2]: https://plantuml-editor.kkeisuke.com/
 </details>
 
-### Курсы
+### Курсы и ресурсы с материалами
 
-<details Бесплатные курсы><summary>Бесплатные курсы</summary>
+<details Курсы><summary>Курсы</summary>
 
 * [Площадка freecodecamp (Eng)][freecodecamp] - обширная база курсов на различные тематики
 * [Площадка W3Schools (Eng)][w3schools] - обширная база курсов на различные тематики
 * [Площадка ProgLang (Rus)][proglang] - самоучитель Java, HTML, CSS
-* [LambdaTest Learning Hub (Eng)][lambdatest] - Testing tutorials, guides, examples, and best practices
 
 [freecodecamp]: https://www.freecodecamp.org/
 [w3schools]: https://www.w3schools.com/
 [proglang]: http://proglang.su/
+</details>
+
+<details Ресурсы><summary>Ресурсы</summary>
+
+* [LambdaTest Learning Hub (Eng)][lambdatest] - Testing tutorials, guides, examples, and best practices
+* [SW TEST ACADEMY (Eng)][swtestacademy] - материалы на темы тестирования, автоматизации, НТ и DevOps
+
 [lambdatest]: https://www.lambdatest.com/learning-hub/
+[swtestacademy]: https://www.swtestacademy.com/
 </details>
