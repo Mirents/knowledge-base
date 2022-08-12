@@ -162,6 +162,19 @@
 * [Read Configurations from a Property File in Selenium][swtestacademy_read_property]
 * [Extend Selenium Grid Video Recording Capability][swtestacademy_grid_video_recording]
 * [JavaScript Error Handling with Javascriptexecutor in Selenium][swtestacademy_javascript_error_handling]
+* [How to Take a Screenshot in Selenium | 4 Different Techniques][swtestacademy_screenshot]
+* [CSS Selectors in Selenium 17 Tactics and Examples][swtestacademy_css_selectors]
+* [Find Broken URLs using Selenium with Multiple Threads][swtestacademy_find_broken_urls]
+* [Parallel Testing without Selenium Grid (On your Local PC)][swtestacademy_local_parallel_testing]
+* [Selenium Webdriver wait for JavaScript JQuery and Angular][swtestacademy_selenium_wait_ajax]
+* [How to Change User Agent In Selenium Webdriver][swtestacademy_change_user_agent]
+* [Selenium Parallel Tests Using Selenium Grid and JUnit | Selenium-15][swtestacademy_parallel_tests]
+* [JavascriptExecutor in Selenium Complete Guide][swtestacademy_javascriptexecutor_in_selenium]
+* [Selenium Cookies | All Details with Examples][swtestacademy_selenium_cookies]
+* [Selenium Wait Tutorial with All Strategies][swtestacademy_selenium_wait]
+* [Window Handling in Selenium with All Examples][swtestacademy_window_handling]
+* [Selenium iFrame Handling – The Complete Guide][swtestacademy_selenium_iframe]
+* [Alert in Selenium – All Methods with Examples][swtestacademy_alert_selenium]
 
 [selenium_docs]: https://www.selenium.dev/documentation/webdriver/
 [implicit_and_explicit_waits]: https://itnext.io/how-to-using-implicit-and-explicit-waits-in-selenium-d1ba53de5e15
@@ -186,6 +199,19 @@
 [swtestacademy_read_property]: https://www.swtestacademy.com/read-configurations-property-file-selenium/
 [swtestacademy_grid_video_recording]: https://www.swtestacademy.com/selenium-grid-video-recording-capability/
 [swtestacademy_javascript_error_handling]: https://www.swtestacademy.com/javascript-error-handling-javascriptexecutor/
+[swtestacademy_screenshot]: https://www.swtestacademy.com/screenshot-selenium-webdriver/
+[swtestacademy_css_selectors]: https://www.swtestacademy.com/css-selenium/
+[swtestacademy_find_broken_urls]: https://www.swtestacademy.com/find-broken-urls-using-selenium/
+[swtestacademy_local_parallel_testing]: https://www.swtestacademy.com/local-parallel-testing-selenium/
+[swtestacademy_selenium_wait_ajax]: https://www.swtestacademy.com/selenium-wait-javascript-angular-ajax/
+[swtestacademy_change_user_agent]: https://www.swtestacademy.com/change-user-agent-selenium-webdriver/
+[swtestacademy_parallel_tests]: https://www.swtestacademy.com/selenium-parallel-tests-grid-junit/
+[swtestacademy_javascriptexecutor_in_selenium]: https://www.swtestacademy.com/javascriptexecutor-in-selenium/
+[swtestacademy_selenium_cookies]: https://www.swtestacademy.com/selenium-cookies/
+[swtestacademy_selenium_wait]: https://www.swtestacademy.com/selenium-wait/
+[swtestacademy_window_handling]: https://www.swtestacademy.com/window-handling-in-selenium/
+[swtestacademy_selenium_iframe]: https://www.swtestacademy.com/selenium-iframe/
+[swtestacademy_alert_selenium]: https://www.swtestacademy.com/alert-in-selenium/
 </details>
 
 <details XPath><summary>XPath</summary>
