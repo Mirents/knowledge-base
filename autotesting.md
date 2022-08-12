@@ -147,8 +147,9 @@
   * [Scroll Web elements and Web page Selenium WebDriver using Javascript][toolsqa_scroll_element]
 * Waits
   * [How to use implicit and explicit waits in Selenium][implicit_and_explicit_waits]
-  * [Selenium Webdriver wait for JavaScript JQuery and Angular][swtestacademy_selenium_wait_ajax]
   * [Selenium Wait Tutorial with All Strategies][swtestacademy_selenium_wait]
+  * [Advance Webdriver Waits][toolsqa_advance_waits]
+  * [Selenium Waits Commands][toolsqa_selenium_wait]
 * Grid
   * [Selenium Grid version 4 Tutorial – Standalone][swtestacademy_grid_standalone]
   * [Selenium Grid on Mac OS][selenium_grid_mac]
@@ -157,6 +158,8 @@
   * [Extend Selenium Grid Video Recording Capability][swtestacademy_grid_video_recording]
   * [Parallel Testing without Selenium Grid (On your Local PC)][swtestacademy_local_parallel_testing]
   * [Selenium Parallel Tests Using Selenium Grid and JUnit | Selenium-15][swtestacademy_parallel_tests]
+  * [Selenium Grid – How to Easily Setup a Hub and Node][toolsqa_selenium_grid_hub_and_node]
+  * [Selenium Grid][toolsqa_selenium_grid]
 * Files
   * [How to Download a File in Selenium Webdriver?][swtestacademy_download_file]
   * [Upload a File by Using Robot Class][swtestacademy_upload_file]
@@ -167,6 +170,33 @@
   * [Selenium 4 – Chrome Dev Tools Samples][swtestacademy_chrome_dev_tools]
   * [Selenium 4 – Sample Codes for New Features][swtestacademy_selenium4_new_features]
   * [Selenium 4 Relative Locators | Friendly Locators][swtestacademy_relative_locators]
+* iFrames
+  * [Selenium iFrame Handling – The Complete Guide][swtestacademy_selenium_iframe]
+  * [iFrames in Selenium WebDriver][toolsqa_handle_iframes]
+  * [Handling Iframes using Selenium WebDriver][toolsqa_handling_iframes]
+* Alerts
+  * [Alert in Selenium – All Methods with Examples][swtestacademy_alert_selenium]
+  * [PopUps and Alerts in Selenium][toolsqa_alerts]
+* Window Handling
+  * [Window Handling in Selenium with All Examples][swtestacademy_window_handling]
+  * [How to handle multiple windows in Selenium?][toolsqa_window_handle]
+* Ajax
+  * [Selenium Webdriver wait for JavaScript JQuery and Angular][swtestacademy_selenium_wait_ajax]
+  * [Handle Ajax call Using JavaScriptExecutor in Selenium?][toolsqa_handle_ajax_call]
+* Action class
+  * [Actions Class in Selenium][toolsqa_actions_class]
+  * [Keyboard Events in Selenium Actions Class][toolsqa_keyboard_events]
+  * [Mouse Hover action in Selenium][toolsqa_mouse_hover]
+  * [ToolTip in Selenium][toolsqa_tooltip]
+  * [Drag and Drop in Selenium][toolsqa_drag_and_drop]
+  * [Right Click and Double Click in Selenium][toolsqa_right_double_click]
+* Robot class
+  * [Robot Class in Java - An Introduction][toolsqa_robot_class]
+  * [Robot Class Mouse Events][toolsqa_robot_mouse]
+  * [Robot Class Keyboard Events][toolsqa_robot_keyboard]
+* Find broken Links
+   * [Find Broken URLs using Selenium with Multiple Threads][swtestacademy_find_broken_urls]
+   * [Find Broken Links in Selenium][toolsqa_find_broken_links]
 * Other  
   * [Custom Firefox Profile for Selenium][toolsqa_custom_firefox_profile]
   * [How to Change User Agent In Selenium Webdriver][swtestacademy_change_user_agent]
@@ -178,11 +208,30 @@
   * [Read Configurations from a Property File in Selenium][swtestacademy_read_property]
   * [How to Take a Screenshot in Selenium | 4 Different Techniques][swtestacademy_screenshot]
   * [CSS Selectors in Selenium 17 Tactics and Examples][swtestacademy_css_selectors]
-  * [Find Broken URLs using Selenium with Multiple Threads][swtestacademy_find_broken_urls]
-  * [Window Handling in Selenium with All Examples][swtestacademy_window_handling]
-  * [Selenium iFrame Handling – The Complete Guide][swtestacademy_selenium_iframe]
-  * [Alert in Selenium – All Methods with Examples][swtestacademy_alert_selenium]
+  * [Handle SSL Certificate in Selenium][toolsqa_ssl_certificate]
+  * [Selenium Headless Browser Testing][toolsqa_headless_browser]
 
+[toolsqa_selenium_grid]: https://www.toolsqa.com/selenium-webdriver/selenium-grid/
+[toolsqa_selenium_grid_hub_and_node]: https://www.toolsqa.com/selenium-webdriver/selenium-grid-how-to-easily-setup-a-hub-and-node/
+[toolsqa_headless_browser]: https://www.toolsqa.com/selenium-webdriver/selenium-headless-browser-testing/
+[toolsqa_ssl_certificate]: https://www.toolsqa.com/selenium-webdriver/ssl-certificate-in-selenium/
+[toolsqa_find_broken_links]: https://www.toolsqa.com/selenium-webdriver/find-broken-links-in-selenium/
+[toolsqa_robot_keyboard]: https://www.toolsqa.com/selenium-webdriver/robot-class-keyboard-events/
+[toolsqa_robot_mouse]: https://www.toolsqa.com/selenium-webdriver/robot-class-mouse-events/
+[toolsqa_robot_class]: https://www.toolsqa.com/selenium-webdriver/robot-class/
+[toolsqa_right_double_click]: https://www.toolsqa.com/selenium-webdriver/right-click-and-double-click-in-selenium/
+[toolsqa_drag_and_drop]: https://www.toolsqa.com/selenium-webdriver/drag-and-drop-in-selenium/
+[toolsqa_tooltip]: https://www.toolsqa.com/selenium-webdriver/tooltip-in-selenium/
+[toolsqa_actions_class]: https://www.toolsqa.com/selenium-webdriver/actions-class-in-selenium/
+[toolsqa_mouse_hover]: https://www.toolsqa.com/selenium-webdriver/mouse-hover-action/
+[toolsqa_keyboard_events]: https://www.toolsqa.com/selenium-webdriver/keyboard-events-in-selenium/
+[toolsqa_selenium_wait]: https://www.toolsqa.com/selenium-webdriver/selenium-wait-commands-implicit-explicit-and-fluent-wait/
+[toolsqa_advance_waits]: https://www.toolsqa.com/selenium-webdriver/advance-webdriver-waits/
+[toolsqa_handle_ajax_call]: https://www.toolsqa.com/selenium-cucumber-framework/handle-ajax-call-using-javascriptexecutor-in-selenium/
+[toolsqa_window_handle]: https://www.toolsqa.com/selenium-webdriver/window-handle-in-selenium/
+[toolsqa_alerts]: https://www.toolsqa.com/selenium-webdriver/alerts-in-selenium/
+[toolsqa_handling_iframes]: https://www.toolsqa.com/selenium-webdriver/handling-iframes-using-selenium-webdriver/
+[toolsqa_handle_iframes]: https://www.toolsqa.com/selenium-webdriver/handle-iframes-in-selenium/
 [selenium_docs]: https://www.selenium.dev/documentation/webdriver/
 [implicit_and_explicit_waits]: https://itnext.io/how-to-using-implicit-and-explicit-waits-in-selenium-d1ba53de5e15
 [toolsqa_javascriptexecutor]: https://www.toolsqa.com/selenium-webdriver/javascript-and-selenium-javascriptexecutor/
