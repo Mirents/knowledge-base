@@ -37,8 +37,8 @@
 * [Официальная документация][allure_docs]
 * [Allure-framework. Часть 1][habr_358836]
 * [Allure-Framework. Работа с кодом][habr_359302]
-* [Allure Report and JUnit 5 Complete Guide (Eng)][swtestacademy_allure_report_junit]
-* [Allure Report Selenium and TestNG Tutorial (Eng)][swtestacademy_allure_report_testng]
+* [Allure Report and JUnit 5 Complete Guide][swtestacademy_allure_report_junit]
+* [Allure Report Selenium and TestNG Tutorial][swtestacademy_allure_report_testng]
 
 [allure_docs]: https://docs.qameta.io/allure/
 [habr_358836]: https://habr.com/ru/company/sberbank/blog/358836/
@@ -63,7 +63,7 @@
 * [JDBC - Java DataBase Connectivity][java_online_jdbc]
 * [SQL Structured Query Language][java_online_sql]
 * [SQL Задачи и решения][sql_learn]
-* [SQL Tutorial (Eng)][w3schools_sql]
+* [SQL Tutorial][w3schools_sql]
 
 [java_online_jdbc]: https://java-online.ru/jdbc.xhtml
 [java_online_sql]: https://java-online.ru/sql.xhtml
@@ -77,8 +77,8 @@
 * [WireMock - официальный сайт][wiremock_site]
 * [WireMock – швейцарский нож в арсенале тестировщика. Часть 1][habr_679276]
 * [WireMock – швейцарский нож в арсенале тестировщика. Часть 2][habr_679330]
-* [How to Create a Standalone Wiremock Stub Server (Eng)][swtestacademy_wiremock]
-* [WireMock JUnit 5 and Rest-Assured Example (Eng)][swtestacademy_wiremock_junit]
+* [How to Create a Standalone Wiremock Stub Server][swtestacademy_wiremock]
+* [WireMock JUnit 5 and Rest-Assured Example][swtestacademy_wiremock_junit]
 
 [mockito_site]: https://site.mockito.org/
 [wiremock_site]: https://wiremock.org/
@@ -90,8 +90,8 @@
 
 <details Mobile Automation><summary>Mobile Automation</summary>
 
-* [Appium Tutorials (Eng)][swtestacademy_appium] - список обучающих статей на тему работы с библиотекой Appium
-* [Mobile Automation (Eng)][swtestacademy_mobile_automation] - список обучающих статей на тему автоматизации мобильных устройств
+* [Appium Tutorials][swtestacademy_appium] - список обучающих статей на тему работы с библиотекой Appium
+* [Mobile Automation][swtestacademy_mobile_automation] - список обучающих статей на тему автоматизации мобильных устройств
 
 [swtestacademy_appium]: https://www.swtestacademy.com/category/test-automation/mobile-automation/appium/
 [swtestacademy_mobile_automation]: https://www.swtestacademy.com/category/test-automation/mobile-automation/
@@ -116,8 +116,8 @@
 
 <details Rest Assured><summary>Rest Assured</summary>
 
-* [Rest Assured Tutorial Learn API Testing Step by Step (Eng)][swtestacademy_rest_assured]
-* [JSON Schema Validation with REST-assured (Eng)][baeldung_rest_assured_json_schema]
+* [Rest Assured Tutorial Learn API Testing Step by Step][swtestacademy_rest_assured]
+* [JSON Schema Validation with REST-assured][baeldung_rest_assured_json_schema]
 
 [swtestacademy_rest_assured]: https://www.swtestacademy.com/rest-assured-tutorial-api-testing/
 [baeldung_rest_assured_json_schema]: https://www.baeldung.com/rest-assured-json-schema
@@ -132,7 +132,7 @@
 
 <details Testcontainers ><summary>Testcontainers </summary>
 
-* [Couchbase Testcontainers in Spring Boot Tests with JUnit 5 (Eng)][swtestacademy_testcontainers]
+* [Couchbase Testcontainers in Spring Boot Tests with JUnit 5][swtestacademy_testcontainers]
 
 [swtestacademy_testcontainers]: https://www.swtestacademy.com/couchbase-testcontainers-in-spring-boot-tests-with-junit-5/
 </details>
@@ -140,41 +140,48 @@
 <details Selenium><summary>Selenium</summary>
 
 * [Официальная документация][selenium_docs]
-* [How to use implicit and explicit waits in Selenium (Eng)][implicit_and_explicit_waits]
-* [JavaScript and Selenium JavaScriptExecutor (Eng)][toolsqa_javascriptexecutor]
-* [Scroll Web elements and Web page Selenium WebDriver using Javascript (Eng)][toolsqa_scroll_element]
-* [Custom Firefox Profile for Selenium (Eng)][toolsqa_custom_firefox_profile]
-* [Selenium WebDriver Event Listener (Eng)][toolsqa_event_listener]
-* [@CacheLookup in PageObjectModel (Eng)][toolsqa_cachelookup]
-* [Selenium 4 – Chrome Dev Tools Samples][swtestacademy_chrome_dev_tools]
-* [Selenium 4 – Sample Codes for New Features][swtestacademy_selenium4_new_features]
-* [Selenium Grid version 4 Tutorial – Standalone][swtestacademy_grid_standalone]
-* [Selenium 4 Relative Locators | Friendly Locators][swtestacademy_relative_locators]
-* [How to Select a Date from DatePicker in Selenium][swtestacademy_datepicker]
-* [Selenium Grid on Mac OS][selenium_grid_mac]
-* [Selenium Grid on Windows][selenium_grid_win]
-* [Extend Selenium Grid in Test Automation Projects][swtestacademy_extend_grid]
-* [BrowserMobProxy in Selenium – Record Network Activities][swtestacademy_browsermobproxy]
-* [How to Download a File in Selenium Webdriver?][swtestacademy_download_file]
-* [Upload a File by Using Robot Class][swtestacademy_upload_file]
-* [Localization Testing using Selenium Webdriver (Basic Tips)][swtestacademy_localization_testing]
-* [How to Bypass Login Step in Selenium Webdriver][swtestacademy_bypass_login]
-* [Read Configurations from a Property File in Selenium][swtestacademy_read_property]
-* [Extend Selenium Grid Video Recording Capability][swtestacademy_grid_video_recording]
-* [JavaScript Error Handling with Javascriptexecutor in Selenium][swtestacademy_javascript_error_handling]
-* [How to Take a Screenshot in Selenium | 4 Different Techniques][swtestacademy_screenshot]
-* [CSS Selectors in Selenium 17 Tactics and Examples][swtestacademy_css_selectors]
-* [Find Broken URLs using Selenium with Multiple Threads][swtestacademy_find_broken_urls]
-* [Parallel Testing without Selenium Grid (On your Local PC)][swtestacademy_local_parallel_testing]
-* [Selenium Webdriver wait for JavaScript JQuery and Angular][swtestacademy_selenium_wait_ajax]
-* [How to Change User Agent In Selenium Webdriver][swtestacademy_change_user_agent]
-* [Selenium Parallel Tests Using Selenium Grid and JUnit | Selenium-15][swtestacademy_parallel_tests]
-* [JavascriptExecutor in Selenium Complete Guide][swtestacademy_javascriptexecutor_in_selenium]
-* [Selenium Cookies | All Details with Examples][swtestacademy_selenium_cookies]
-* [Selenium Wait Tutorial with All Strategies][swtestacademy_selenium_wait]
-* [Window Handling in Selenium with All Examples][swtestacademy_window_handling]
-* [Selenium iFrame Handling – The Complete Guide][swtestacademy_selenium_iframe]
-* [Alert in Selenium – All Methods with Examples][swtestacademy_alert_selenium]
+* JavaScriptExecutor
+  * [JavaScript and Selenium JavaScriptExecutor][toolsqa_javascriptexecutor]
+  * [JavaScript Error Handling with Javascriptexecutor in Selenium][swtestacademy_javascript_error_handling]
+  * [JavascriptExecutor in Selenium Complete Guide][swtestacademy_javascriptexecutor_in_selenium]
+  * [Scroll Web elements and Web page Selenium WebDriver using Javascript][toolsqa_scroll_element]
+* Waits
+  * [How to use implicit and explicit waits in Selenium][implicit_and_explicit_waits]
+  * [Selenium Webdriver wait for JavaScript JQuery and Angular][swtestacademy_selenium_wait_ajax]
+  * [Selenium Wait Tutorial with All Strategies][swtestacademy_selenium_wait]
+* Grid
+  * [Selenium Grid version 4 Tutorial – Standalone][swtestacademy_grid_standalone]
+  * [Selenium Grid on Mac OS][selenium_grid_mac]
+  * [Selenium Grid on Windows][selenium_grid_win]
+  * [Extend Selenium Grid in Test Automation Projects][swtestacademy_extend_grid]
+  * [Extend Selenium Grid Video Recording Capability][swtestacademy_grid_video_recording]
+  * [Parallel Testing without Selenium Grid (On your Local PC)][swtestacademy_local_parallel_testing]
+  * [Selenium Parallel Tests Using Selenium Grid and JUnit | Selenium-15][swtestacademy_parallel_tests]
+* Files
+  * [How to Download a File in Selenium Webdriver?][swtestacademy_download_file]
+  * [Upload a File by Using Robot Class][swtestacademy_upload_file]
+* Cookies
+  * [Selenium Cookies | All Details with Examples][swtestacademy_selenium_cookies]
+  * [How to Bypass Login Step in Selenium Webdriver][swtestacademy_bypass_login]
+* Selenium 4
+  * [Selenium 4 – Chrome Dev Tools Samples][swtestacademy_chrome_dev_tools]
+  * [Selenium 4 – Sample Codes for New Features][swtestacademy_selenium4_new_features]
+  * [Selenium 4 Relative Locators | Friendly Locators][swtestacademy_relative_locators]
+* Other  
+  * [Custom Firefox Profile for Selenium][toolsqa_custom_firefox_profile]
+  * [How to Change User Agent In Selenium Webdriver][swtestacademy_change_user_agent]
+  * [Selenium WebDriver Event Listener][toolsqa_event_listener]
+  * [@CacheLookup in PageObjectModel][toolsqa_cachelookup]
+  * [How to Select a Date from DatePicker in Selenium][swtestacademy_datepicker]
+  * [BrowserMobProxy in Selenium – Record Network Activities][swtestacademy_browsermobproxy]
+  * [Localization Testing using Selenium Webdriver (Basic Tips)][swtestacademy_localization_testing]
+  * [Read Configurations from a Property File in Selenium][swtestacademy_read_property]
+  * [How to Take a Screenshot in Selenium | 4 Different Techniques][swtestacademy_screenshot]
+  * [CSS Selectors in Selenium 17 Tactics and Examples][swtestacademy_css_selectors]
+  * [Find Broken URLs using Selenium with Multiple Threads][swtestacademy_find_broken_urls]
+  * [Window Handling in Selenium with All Examples][swtestacademy_window_handling]
+  * [Selenium iFrame Handling – The Complete Guide][swtestacademy_selenium_iframe]
+  * [Alert in Selenium – All Methods with Examples][swtestacademy_alert_selenium]
 
 [selenium_docs]: https://www.selenium.dev/documentation/webdriver/
 [implicit_and_explicit_waits]: https://itnext.io/how-to-using-implicit-and-explicit-waits-in-selenium-d1ba53de5e15
