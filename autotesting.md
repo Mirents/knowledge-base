@@ -146,6 +146,22 @@
 * [Custom Firefox Profile for Selenium (Eng)][toolsqa_custom_firefox_profile]
 * [Selenium WebDriver Event Listener (Eng)][toolsqa_event_listener]
 * [@CacheLookup in PageObjectModel (Eng)][toolsqa_cachelookup]
+* [Selenium 4 – Chrome Dev Tools Samples][swtestacademy_chrome_dev_tools]
+* [Selenium 4 – Sample Codes for New Features][swtestacademy_selenium4_new_features]
+* [Selenium Grid version 4 Tutorial – Standalone][swtestacademy_grid_standalone]
+* [Selenium 4 Relative Locators | Friendly Locators][swtestacademy_relative_locators]
+* [How to Select a Date from DatePicker in Selenium][swtestacademy_datepicker]
+* [Selenium Grid on Mac OS][selenium_grid_mac]
+* [Selenium Grid on Windows][selenium_grid_win]
+* [Extend Selenium Grid in Test Automation Projects][swtestacademy_extend_grid]
+* [BrowserMobProxy in Selenium – Record Network Activities][swtestacademy_browsermobproxy]
+* [How to Download a File in Selenium Webdriver?][swtestacademy_download_file]
+* [Upload a File by Using Robot Class][swtestacademy_upload_file]
+* [Localization Testing using Selenium Webdriver (Basic Tips)][swtestacademy_localization_testing]
+* [How to Bypass Login Step in Selenium Webdriver][swtestacademy_bypass_login]
+* [Read Configurations from a Property File in Selenium][swtestacademy_read_property]
+* [Extend Selenium Grid Video Recording Capability][swtestacademy_grid_video_recording]
+* [JavaScript Error Handling with Javascriptexecutor in Selenium][swtestacademy_javascript_error_handling]
 
 [selenium_docs]: https://www.selenium.dev/documentation/webdriver/
 [implicit_and_explicit_waits]: https://itnext.io/how-to-using-implicit-and-explicit-waits-in-selenium-d1ba53de5e15
@@ -154,15 +170,33 @@
 [toolsqa_custom_firefox_profile]: https://www.toolsqa.com/selenium-webdriver/custom-firefox-profile/
 [toolsqa_event_listener]: https://www.toolsqa.com/selenium-webdriver/event-listener/
 [toolsqa_cachelookup]: https://www.toolsqa.com/selenium-webdriver/cachelookup-in-pageobjectmodel/
+[swtestacademy_chrome_dev_tools]: https://www.swtestacademy.com/selenium-4-chrome-dev-tools-samples/
+[swtestacademy_selenium4_new_features]: https://www.swtestacademy.com/selenium-4-sample-codes-for-new-features/
+[swtestacademy_grid_standalone]: https://www.swtestacademy.com/selenium-4-grid-standalone-tutorial/
+[swtestacademy_relative_locators]: https://www.swtestacademy.com/selenium-relative-locators/
+[swtestacademy_datepicker]: https://www.swtestacademy.com/datepicker-using-selenium/
+[selenium_grid_mac]: https://www.swtestacademy.com/selenium-grid-on-mac/
+[selenium_grid_win]: https://www.swtestacademy.com/selenium-grid/
+[swtestacademy_extend_grid]: https://www.swtestacademy.com/extend-selenium-grid/
+[swtestacademy_browsermobproxy]: https://www.swtestacademy.com/browsermobproxy-in-selenium/
+[swtestacademy_download_file]: https://www.swtestacademy.com/how-to-download-file-in-selenium/
+[swtestacademy_upload_file]: https://www.swtestacademy.com/upload-file-using-robot-class/
+[swtestacademy_localization_testing]: https://www.swtestacademy.com/localization-testing-using-selenium-webdriver/
+[swtestacademy_bypass_login]: https://www.swtestacademy.com/bypass-login-in-selenium-webdriver/
+[swtestacademy_read_property]: https://www.swtestacademy.com/read-configurations-property-file-selenium/
+[swtestacademy_grid_video_recording]: https://www.swtestacademy.com/selenium-grid-video-recording-capability/
+[swtestacademy_javascript_error_handling]: https://www.swtestacademy.com/javascript-error-handling-javascriptexecutor/
 </details>
 
 <details XPath><summary>XPath</summary>
 
 * [Write Effective XPaths (Eng)][write_effective_xpaths]
 * [XPath в примерах][xpath_tutorial]
+* [Xpath in Selenium with All Tactics and Examples (Eng)][swtestacademy_xpath]
 
 [write_effective_xpaths]: https://www.toolsqa.com/selenium-webdriver/write-effective-xpaths/
 [xpath_tutorial]: http://zvon.org/xxl/XPathTutorial/Output_rus/
+[swtestacademy_xpath]: https://www.swtestacademy.com/xpath-selenium/
 </details>
 
 <details Visual Testing><summary>Visual Testing</summary>
@@ -186,6 +220,29 @@
 * [Docker Selenium Tutorial for Parallel Testing on Selenium Grid (Eng)][swtestacademy_parametrized_jenkins_job]
 
 [swtestacademy_docker_selenium_tutorial]: https://www.swtestacademy.com/docker-selenium-tutorial/
+</details>
+
+<details Selenoid><summary>Selenoid</summary>
+
+* [Selenoid Tutorial | Docker-Selenium Alternative for Parallel Testing (Eng)][swtestacademy_selenoid_tutorial]
+* [Selenoid on Google Cloud (Eng)][swtestacademy_selenoid_google_cloud]
+
+[swtestacademy_selenoid_tutorial]: https://www.swtestacademy.com/selenoid-tutorial/
+[swtestacademy_selenoid_google_cloud]: https://www.swtestacademy.com/selenoid-on-google-cloud/
+</details>
+
+<details Kubernetes><summary>Kubernetes</summary>
+
+* [Selenium and Kubernetes for Scalable Parallel Automated Tests (Eng)][swtestacademy_kubernetes_parallel]
+
+[swtestacademy_kubernetes_parallel]: https://www.swtestacademy.com/selenium-kubernetes-scalable-parallel-tests/
+</details>
+
+<details Spring Boot><summary>Spring Boot</summary>
+
+* [Selenium Spring Boot Cucumber Junit 5 Test Automation Project (Eng)][swtestacademy_spring_boot]
+
+[swtestacademy_spring_boot]: https://www.swtestacademy.com/selenium-spring-boot-cucumber-junit5-project/
 </details>
 
 ### Ссылки
