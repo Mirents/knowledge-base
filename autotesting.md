@@ -32,13 +32,13 @@
 [habr_332754]: https://habr.com/ru/post/332754/
 </details>
 
-<details Allure><summary>Allure-отчет</summary>
+<details Allure Report><summary>Allure Report</summary>
 
 * [Официальная документация][allure_docs]
 * [Allure-framework. Часть 1][habr_358836]
 * [Allure-Framework. Работа с кодом][habr_359302]
-* [Allure Report and JUnit 5 Complete Guide][swtestacademy_allure_report_junit]
-* [Allure Report Selenium and TestNG Tutorial][swtestacademy_allure_report_testng]
+* [Allure Report and JUnit 5 Complete Guide (Eng)][swtestacademy_allure_report_junit]
+* [Allure Report Selenium and TestNG Tutorial (Eng)][swtestacademy_allure_report_testng]
 
 [allure_docs]: https://docs.qameta.io/allure/
 [habr_358836]: https://habr.com/ru/company/sberbank/blog/358836/
@@ -71,17 +71,28 @@
 [w3schools_sql]: https://www.w3schools.com/sql/default.asp
 </details>
 
-<details Заглушки><summary>Заглушки</summary>
+<details Stub, Mock><summary>Stub, Mock</summary>
 
 * [Mockito - официальный сайт][mockito_site]
 * [WireMock - официальный сайт][wiremock_site]
 * [WireMock – швейцарский нож в арсенале тестировщика. Часть 1][habr_679276]
 * [WireMock – швейцарский нож в арсенале тестировщика. Часть 2][habr_679330]
+* [How to Create a Standalone Wiremock Stub Server (Eng)][swtestacademy_wiremock]
+* [WireMock JUnit 5 and Rest-Assured Example (Eng)][swtestacademy_wiremock_junit]
 
 [mockito_site]: https://site.mockito.org/
 [wiremock_site]: https://wiremock.org/
 [habr_679276]: https://habr.com/ru/company/rostelecom/blog/679276/
 [habr_679330]: https://habr.com/ru/company/rostelecom/blog/679330/
+[swtestacademy_wiremock]: https://www.swtestacademy.com/standalone-wiremock-stub-server-creation/
+[swtestacademy_wiremock_junit]: https://www.swtestacademy.com/wiremock-junit-5-rest-assured/
+</details>
+
+<details Appium><summary>Appium</summary>
+
+* [Appium Tutorials (Eng)][swtestacademy_appium] - список обучающих статей на тему работы с библиотекой Appium
+
+[swtestacademy_appium]: https://www.swtestacademy.com/category/test-automation/mobile-automation/appium/
 </details>
 
 <details JUnit 5><summary>JUnit 5</summary>
@@ -89,6 +100,15 @@
 * [Официальная документация][junit5_docs]
 
 [junit5_docs]: https://junit.org/junit5/docs/current/user-guide/
+</details>
+
+<details Rest Assured><summary>Rest Assured</summary>
+
+* [Rest Assured Tutorial Learn API Testing Step by Step (Eng)][swtestacademy_rest_assured]
+* [JSON Schema Validation with REST-assured (Eng)][baeldung_rest_assured_json_schema]
+
+[swtestacademy_rest_assured]: https://www.swtestacademy.com/rest-assured-tutorial-api-testing/
+[baeldung_rest_assured_json_schema]: https://www.baeldung.com/rest-assured-json-schema
 </details>
 
 <details Lombok><summary>Lombok</summary>
