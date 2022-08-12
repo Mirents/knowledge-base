@@ -37,10 +37,14 @@
 * [Официальная документация][allure_docs]
 * [Allure-framework. Часть 1][habr_358836]
 * [Allure-Framework. Работа с кодом][habr_359302]
+* [Allure Report and JUnit 5 Complete Guide][swtestacademy_allure_report_junit]
+* [Allure Report Selenium and TestNG Tutorial][swtestacademy_allure_report_testng]
 
 [allure_docs]: https://docs.qameta.io/allure/
 [habr_358836]: https://habr.com/ru/company/sberbank/blog/358836/
 [habr_359302]: https://habr.com/ru/company/sberbank/blog/359302/
+[swtestacademy_allure_report_junit]: https://www.swtestacademy.com/allure-report-junit/
+[swtestacademy_allure_report_testng]: https://www.swtestacademy.com/allure-report-testng/
 </details>
 
 <details Maven><summary>Maven</summary>
