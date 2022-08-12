@@ -329,6 +329,16 @@
 [swtestacademy_spring_boot]: https://www.swtestacademy.com/selenium-spring-boot-cucumber-junit5-project/
 </details>
 
+<details Spring Boot><summary>Spring Boot</summary>
+
+* [Selenium Spring Boot Cucumber Junit 5 Test Automation Project (Eng)][swtestacademy_spring_boot]
+
+[swtestacademy_spring_boot]: https://www.toolsqa.com/selenium-webdriver/selenium-automation-hybrid-framework/
+[]: https://www.toolsqa.com/selenium-webdriver/data-driven-framework/
+[]: https://www.toolsqa.com/selenium-webdriver/keyword-driven-framework/introduction/
+[]: 
+[]: 
+</details>
 ### Ссылки
 
 <details Курсы><summary>Бесплатные курсы</summary>
