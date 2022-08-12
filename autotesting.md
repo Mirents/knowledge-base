@@ -236,9 +236,11 @@
 
 * [Parametrized Jenkins Job Creation (Eng)][swtestacademy_parametrized_jenkins_job]
 * [How to Integrate Jenkins with Selenium, JAVA, and Maven (Eng)][swtestacademy_jenkins_selenium_java_maven]
+* [Jenkins Git Integration on Ubuntu][swtestacademy_jenkins_git_ubuntu]
 
 [swtestacademy_parametrized_jenkins_job]: https://www.swtestacademy.com/parametrized-jenkins-job/
 [swtestacademy_jenkins_selenium_java_maven]: https://www.swtestacademy.com/jenkins-selenium-java-maven/
+[swtestacademy_jenkins_git_ubuntu]: https://www.swtestacademy.com/jenkins-git-integration-ubuntu/
 </details>
 
 <details Docker><summary>Docker</summary>
