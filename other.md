@@ -97,11 +97,13 @@
 
 <details Бесплатные курсы><summary>Бесплатные курсы</summary>
 
-* [Площадка freecodecamp][freecodecamp] - обширная база курсов на различные тематики
-* [Площадка W3Schools][w3schools] - обширная база курсов на различные тематики
-* [Площадка ProgLang][proglang] - самоучитель Java, HTML, CSS
+* [Площадка freecodecamp (Eng)][freecodecamp] - обширная база курсов на различные тематики
+* [Площадка W3Schools (Eng)][w3schools] - обширная база курсов на различные тематики
+* [Площадка ProgLang (Rus)][proglang] - самоучитель Java, HTML, CSS
+* [LambdaTest Learning Hub (Eng)][lambdatest] - Testing tutorials, guides, examples, and best practices
 
 [freecodecamp]: https://www.freecodecamp.org/
 [w3schools]: https://www.w3schools.com/
 [proglang]: http://proglang.su/
+[lambdatest]: https://www.lambdatest.com/learning-hub/
 </details>
