@@ -88,18 +88,30 @@
 [swtestacademy_wiremock_junit]: https://www.swtestacademy.com/wiremock-junit-5-rest-assured/
 </details>
 
-<details Appium><summary>Appium</summary>
+<details Mobile Automation><summary>Mobile Automation</summary>
 
 * [Appium Tutorials (Eng)][swtestacademy_appium] - список обучающих статей на тему работы с библиотекой Appium
+* [Mobile Automation (Eng)][swtestacademy_mobile_automation] - список обучающих статей на тему автоматизации мобильных устройств
 
 [swtestacademy_appium]: https://www.swtestacademy.com/category/test-automation/mobile-automation/appium/
+[swtestacademy_mobile_automation]: https://www.swtestacademy.com/category/test-automation/mobile-automation/
 </details>
 
 <details JUnit 5><summary>JUnit 5</summary>
 
 * [Официальная документация][junit5_docs]
+* [JUnit 5 Extensions][swtestacademy_junit5_extensions]
+* [JUnit 5 Annotations][swtestacademy_junit5_annotations]
+* [JUnit 5 Architecture][swtestacademy_junit5_architecture]
+* [JUnit 5 How to Repeat Failed Test][swtestacademy_junit5_repeat_failed_test]
+* [JUnit 5 Parallel Test Execution][swtestacademy_junit5_parallel_execution]
 
 [junit5_docs]: https://junit.org/junit5/docs/current/user-guide/
+[swtestacademy_junit5_extensions]: https://www.swtestacademy.com/junit-5-extensions/
+[swtestacademy_junit5_annotations]: https://www.swtestacademy.com/junit-5-annotations/
+[swtestacademy_junit5_architecture]: https://www.swtestacademy.com/junit-5-architecture/
+[swtestacademy_junit5_repeat_failed_test]: https://www.swtestacademy.com/junit-5-how-to-repeat-failed-test/
+[swtestacademy_junit5_parallel_execution]: https://www.swtestacademy.com/junit5-parallel-test-execution/
 </details>
 
 <details Rest Assured><summary>Rest Assured</summary>
@@ -116,6 +128,13 @@
 * [Project Lombok][projectlombok]
 
 [projectlombok]: https://projectlombok.org/features/
+</details>
+
+<details Testcontainers ><summary>Testcontainers </summary>
+
+* [Couchbase Testcontainers in Spring Boot Tests with JUnit 5 (Eng)][swtestacademy_testcontainers]
+
+[swtestacademy_testcontainers]: https://www.swtestacademy.com/couchbase-testcontainers-in-spring-boot-tests-with-junit-5/
 </details>
 
 <details Selenium><summary>Selenium</summary>
@@ -151,6 +170,22 @@
 * [Automated Visual Testing using aShot and Selenium Web driver (Eng)][techblog_ashot]
 
 [techblog_ashot]: https://techblog.dotdash.com/automated-visual-testing-using-ashot-and-selenium-webdriver-e1da268b74c8
+</details>
+
+<details Jenkins><summary>Jenkins</summary>
+
+* [Parametrized Jenkins Job Creation (Eng)][swtestacademy_parametrized_jenkins_job]
+* [How to Integrate Jenkins with Selenium, JAVA, and Maven (Eng)][swtestacademy_jenkins_selenium_java_maven]
+
+[swtestacademy_parametrized_jenkins_job]: https://www.swtestacademy.com/parametrized-jenkins-job/
+[swtestacademy_jenkins_selenium_java_maven]: https://www.swtestacademy.com/jenkins-selenium-java-maven/
+</details>
+
+<details Docker><summary>Docker</summary>
+
+* [Docker Selenium Tutorial for Parallel Testing on Selenium Grid (Eng)][swtestacademy_parametrized_jenkins_job]
+
+[swtestacademy_docker_selenium_tutorial]: https://www.swtestacademy.com/docker-selenium-tutorial/
 </details>
 
 ### Ссылки
