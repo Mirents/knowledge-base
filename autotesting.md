@@ -329,16 +329,17 @@
 [swtestacademy_spring_boot]: https://www.swtestacademy.com/selenium-spring-boot-cucumber-junit5-project/
 </details>
 
-<details Spring Boot><summary>Spring Boot</summary>
+<details Проектирование фреймворков><summary>Проектирование фреймворков</summary>
 
-* [Selenium Spring Boot Cucumber Junit 5 Test Automation Project (Eng)][swtestacademy_spring_boot]
+* [Selenium Automation Hybrid Framework (Data Driven & Modular Driven)][toolsqa_hybrid_framework]
+* [Data Driven Framework (Apache POI – Excel)][toolsqa_data_driven_framework]
+* [Keyword Driven Framework - Introduction][toolsqa_keyword_driven_framework]
 
-[swtestacademy_spring_boot]: https://www.toolsqa.com/selenium-webdriver/selenium-automation-hybrid-framework/
-[]: https://www.toolsqa.com/selenium-webdriver/data-driven-framework/
-[]: https://www.toolsqa.com/selenium-webdriver/keyword-driven-framework/introduction/
-[]: 
-[]: 
+[toolsqa_hybrid_framework]: https://www.toolsqa.com/selenium-webdriver/selenium-automation-hybrid-framework/
+[toolsqa_data_driven_framework]: https://www.toolsqa.com/selenium-webdriver/data-driven-framework/
+[toolsqa_keyword_driven_framework]: https://www.toolsqa.com/selenium-webdriver/keyword-driven-framework/introduction/
 </details>
+
 ### Ссылки
 
 <details Курсы><summary>Бесплатные курсы</summary>
