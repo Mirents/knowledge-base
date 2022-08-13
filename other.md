@@ -43,6 +43,8 @@
   * [Using PlantUML Lightweight Software Architecture Description Method][crashedmind_plantuml] - пример использования PlantUML для описания сложных архитектурных схем
   * [Real World PlantUML][real_world_plantuml] - обширная база с примерами диаграмм
   * [SequenceDiagram][sequencediagram] - описание и примеры Sequence Diagram
+  * [PlantUML Documentation][plantuml_documentation] - описание разных типов диаграмм
+* Статьи
   * [PlantUML — инструмент продуктового разработчика][habr_577606]
 
 [plantuml_base]: https://plantuml.com/ru/
@@ -52,6 +54,7 @@
 [real_world_plantuml]: https://real-world-plantuml.com/
 [sequencediagram]: https://sequencediagram.org/instructions.html
 [habr_577606]: https://habr.com/ru/company/qiwi/blog/577606/
+[plantuml_documentation]: https://plantuml-documentation.readthedocs.io/en/latest/
 
 </details>
 
