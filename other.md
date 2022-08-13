@@ -110,7 +110,9 @@
 
 * [LambdaTest Learning Hub (Eng)][lambdatest] - Testing tutorials, guides, examples, and best practices
 * [SW TEST ACADEMY (Eng)][swtestacademy] - материалы на темы тестирования, автоматизации, НТ и DevOps
+* [ISTQB Foundation Level][toolsqa_istqb] - статьи на тему тестирования
 
 [lambdatest]: https://www.lambdatest.com/learning-hub/
 [swtestacademy]: https://www.swtestacademy.com/
+[toolsqa_istqb]: https://www.toolsqa.com/software-testing/istqb-foundation-level/
 </details>
