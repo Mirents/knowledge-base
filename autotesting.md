@@ -332,10 +332,23 @@
 * [Parametrized Jenkins Job Creation (Eng)][swtestacademy_parametrized_jenkins_job]
 * [How to Integrate Jenkins with Selenium, JAVA, and Maven (Eng)][swtestacademy_jenkins_selenium_java_maven]
 * [Jenkins Git Integration on Ubuntu][swtestacademy_jenkins_git_ubuntu]
+* [What Is Jenkins Used For?][lambdatest_what_is_jenkins] - обширная статья с описанием принципа работы, порядка установке и настройки Jenkins
+* [Best Jenkins Pipeline Tutorial For Beginners [Examples]][lambdatest_jenkins_pipeline_tutorial]
+* [Running Selenium Tests in Jenkins][lambdatest_jenkins_with_selenium]
+* [How To Integrate Jenkins & Maven With Selenium?][lambdatest_selenium_maven_jenkins]
+* [How To Create Jenkins Multibranch Pipeline][lambdatest_jenkins_multibranch_pipeline]
+* [Are You Following These Jenkins Best Practices?][lambdatest_jenkins_best_practices]
+* [][]
 
 [swtestacademy_parametrized_jenkins_job]: https://www.swtestacademy.com/parametrized-jenkins-job/
 [swtestacademy_jenkins_selenium_java_maven]: https://www.swtestacademy.com/jenkins-selenium-java-maven/
 [swtestacademy_jenkins_git_ubuntu]: https://www.swtestacademy.com/jenkins-git-integration-ubuntu/
+[lambdatest_what_is_jenkins]: https://www.lambdatest.com/blog/what-is-jenkins/
+[lambdatest_jenkins_pipeline_tutorial]: https://www.lambdatest.com/blog/jenkins-pipeline-tutorial/
+[lambdatest_jenkins_with_selenium]: https://www.lambdatest.com/blog/jenkins-integration-with-selenium-webdriver/
+[lambdatest_selenium_maven_jenkins]: https://www.lambdatest.com/blog/selenium-maven-jenkins-integration/
+[lambdatest_jenkins_multibranch_pipeline]: https://www.lambdatest.com/blog/how-to-create-jenkins-multibranch-pipeline/
+[lambdatest_jenkins_best_practices]: https://www.lambdatest.com/blog/jenkins-best-practices/
 </details>
 
 <details Docker><summary>Docker</summary>
@@ -400,6 +413,7 @@
 * [Ядро автоматизации тестирования в микросервисной архитектуре][habr_333644]
 * [Если у вас нет собаки…][habr_350238]
 * [Automation Testing Tutorial: A Comprehensive Guide With Examples and Best Practices][lambdatest_automation_testing]
+* [CI/CD Tools Comparison: A Comprehensive Guide With Examples][lambdatest_cicd] - Сравнение различных CI/CD инструментов с примерами
 
 [habr_565806]: https://habr.com/ru/post/565806/
 [habr_523802]: https://habr.com/ru/company/protei/blog/523802/
@@ -411,4 +425,5 @@
 [habr_333644]: https://habr.com/ru/company/avito/blog/333644/
 [habr_350238]: https://habr.com/ru/company/alfa/blog/350238/
 [lambdatest_automation_testing]: https://www.lambdatest.com/learning-hub/automation-testing
+[lambdatest_cicd]: https://www.lambdatest.com/learning-hub/cicd
 </details>
