@@ -74,7 +74,7 @@
 [demoqa_com]: https://demoqa.com/
 </details>
 
-<details Ресурсы><summary>Ресурсы</summary>
+<details Обучающие ресурсы><summary>Обучающие ресурсы</summary>
 
 * [LambdaTest Learning Hub (Eng)][lambdatest] - Testing tutorials, guides, examples, and best practices
 * [SW TEST ACADEMY (Eng)][swtestacademy] - материалы на темы тестирования, автоматизации, НТ и DevOps
