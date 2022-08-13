@@ -126,13 +126,6 @@
 [lambdatest_protractor]: https://www.lambdatest.com/learning-hub/protractor
 </details>
 
-<details Protractor><summary>Protractor</summary>
-
-* [Selenium Protractor Tutorial: A Comprehensive Guide With Examples and Best Practices][lambdatest_protractor] - ряд статей по разработке фреймворка AT с использованием Protractor
-
-[lambdatest_protractor]: https://www.lambdatest.com/learning-hub/protractor
-</details>
-
 <details Rest Assured><summary>Rest Assured</summary>
 
 * [Rest Assured Tutorial Learn API Testing Step by Step][swtestacademy_rest_assured]
