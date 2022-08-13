@@ -114,6 +114,27 @@
 [swtestacademy_junit5_parallel_execution]: https://www.swtestacademy.com/junit5-parallel-test-execution/
 </details>
 
+<details TestNG><summary>TestNG</summary>
+
+* [Selenium TestNG Tutorial: A Comprehensive Guide, with Examples & Best Practices][lambdatest_testng] - ряд статей по разработке фреймворка AT на TestNG
+
+[lambdatest_testng]: https://www.lambdatest.com/learning-hub/testng
+</details>
+
+<details Protractor><summary>Protractor</summary>
+
+* [Selenium Protractor Tutorial: A Comprehensive Guide With Examples and Best Practices][lambdatest_protractor] - ряд статей по разработке фреймворка AT с использованием Protractor
+
+[lambdatest_protractor]: https://www.lambdatest.com/learning-hub/protractor
+</details>
+
+<details Protractor><summary>Protractor</summary>
+
+* [Selenium Protractor Tutorial: A Comprehensive Guide With Examples and Best Practices][lambdatest_protractor] - ряд статей по разработке фреймворка AT с использованием Protractor
+
+[lambdatest_protractor]: https://www.lambdatest.com/learning-hub/protractor
+</details>
+
 <details Rest Assured><summary>Rest Assured</summary>
 
 * [Rest Assured Tutorial Learn API Testing Step by Step][swtestacademy_rest_assured]
@@ -152,6 +173,7 @@
   * [Selenium Waits Commands][toolsqa_selenium_wait]
 * Grid
   * [Selenium Grid version 4 Tutorial – Standalone][swtestacademy_grid_standalone]
+  * [Selenium Grid 4 Tutorial For Distributed Testing][lambdatest_selenium_grid4]
   * [Selenium Grid on Mac OS][selenium_grid_mac]
   * [Selenium Grid on Windows][selenium_grid_win]
   * [Extend Selenium Grid in Test Automation Projects][swtestacademy_extend_grid]
@@ -170,6 +192,9 @@
   * [Selenium 4 – Chrome Dev Tools Samples][swtestacademy_chrome_dev_tools]
   * [Selenium 4 – Sample Codes for New Features][swtestacademy_selenium4_new_features]
   * [Selenium 4 Relative Locators | Friendly Locators][swtestacademy_relative_locators]
+  * [How To Upgrade From Selenium 3 To Selenium 4?][lambdatest_selenium3_selenium4]
+  * [What Is New In Selenium 4 And What Is Deprecated In It?][lambdatest_new_selenium4]
+  * [How Selenium 4 Relative Locator Can Change The Way You Test?][lambdatest_relative_locator]
 * iFrames
   * [Selenium iFrame Handling – The Complete Guide][swtestacademy_selenium_iframe]
   * [iFrames in Selenium WebDriver][toolsqa_handle_iframes]
@@ -211,6 +236,10 @@
   * [Handle SSL Certificate in Selenium][toolsqa_ssl_certificate]
   * [Selenium Headless Browser Testing][toolsqa_headless_browser]
 
+[lambdatest_selenium_grid4]: https://www.lambdatest.com/blog/selenium-grid-4-tutorial-for-distributed-testing/
+[lambdatest_relative_locator]: https://www.lambdatest.com/blog/selenium-4-relative-locator/
+[lambdatest_new_selenium4]: https://www.lambdatest.com/blog/what-is-deprecated-in-selenium4/
+[lambdatest_selenium3_selenium4]: https://www.lambdatest.com/blog/upgrade-from-selenium3-to-selenium4/
 [toolsqa_selenium_grid]: https://www.toolsqa.com/selenium-webdriver/selenium-grid/
 [toolsqa_selenium_grid_hub_and_node]: https://www.toolsqa.com/selenium-webdriver/selenium-grid-how-to-easily-setup-a-hub-and-node/
 [toolsqa_headless_browser]: https://www.toolsqa.com/selenium-webdriver/selenium-headless-browser-testing/
