@@ -166,7 +166,7 @@
 </details>
 
 
-<details Testcontainers ><summary>Testcontainers </summary>
+<details Testcontainers><summary>Testcontainers</summary>
 
 * [Couchbase Testcontainers in Spring Boot Tests with JUnit 5][swtestacademy_testcontainers]
 
@@ -350,17 +350,19 @@
 
 <details Jenkins><summary>Jenkins</summary>
 
-* [Parametrized Jenkins Job Creation (Eng)][swtestacademy_parametrized_jenkins_job]
-* [How to Integrate Jenkins with Selenium, JAVA, and Maven (Eng)][swtestacademy_jenkins_selenium_java_maven]
-* [Jenkins Git Integration on Ubuntu][swtestacademy_jenkins_git_ubuntu]
-* [What Is Jenkins Used For?][lambdatest_what_is_jenkins] - обширная статья с описанием принципа работы, порядка установке и настройки Jenkins
-* [Best Jenkins Pipeline Tutorial For Beginners [Examples]][lambdatest_jenkins_pipeline_tutorial]
-* [Running Selenium Tests in Jenkins][lambdatest_jenkins_with_selenium]
-* [How To Integrate Jenkins & Maven With Selenium?][lambdatest_selenium_maven_jenkins]
-* [How To Create Jenkins Multibranch Pipeline][lambdatest_jenkins_multibranch_pipeline]
-* [Are You Following These Jenkins Best Practices?][lambdatest_jenkins_best_practices]
-* [Три способа поднять Jenkins CI для ваших автотестов][jenkins_with_avtotests]
-* [Configuring CI/CD on Kubernetes with Jenkins][Kubernetes_with_jenkins]
+* В автоматизации тестирования
+  * [How to Integrate Jenkins with Selenium, JAVA, and Maven][swtestacademy_jenkins_selenium_java_maven]
+  * [Running Selenium Tests in Jenkins][lambdatest_jenkins_with_selenium]
+  * [How To Integrate Jenkins & Maven With Selenium?][lambdatest_selenium_maven_jenkins]
+  * [Три способа поднять Jenkins CI для ваших автотестов][jenkins_with_avtotests]
+* Инструкции по установке и настройке
+  * [Parametrized Jenkins Job Creation][swtestacademy_parametrized_jenkins_job]
+  * [Jenkins Git Integration on Ubuntu][swtestacademy_jenkins_git_ubuntu]
+  * [What Is Jenkins Used For?][lambdatest_what_is_jenkins] - обширная статья с описанием принципа работы, порядка установке и настройки Jenkins
+  * [Best Jenkins Pipeline Tutorial For Beginners [Examples]][lambdatest_jenkins_pipeline_tutorial]
+  * [How To Create Jenkins Multibranch Pipeline][lambdatest_jenkins_multibranch_pipeline]
+  * [Are You Following These Jenkins Best Practices?][lambdatest_jenkins_best_practices]
+  * [Configuring CI/CD on Kubernetes with Jenkins][Kubernetes_with_jenkins]
 
 [jenkins_with_avtotests]: https://automation-remarks.com/tri-sposoba-podniat-jenkins-ci-dlia-vashikh-avtotiestov/
 [swtestacademy_parametrized_jenkins_job]: https://www.swtestacademy.com/parametrized-jenkins-job/
@@ -381,7 +383,7 @@
 * Для автоматизации тестирования
   * [Docker Selenium Tutorial for Parallel Testing on Selenium Grid (Eng)][swtestacademy_docker_selenium_tutorial]
   * [Selenoid Tutorial | Docker-Selenium Alternative for Parallel Testing (Eng)][swtestacademy_selenoid_tutorial]
-* Описания и руководства
+* Инструкции по установке и настройке
   * [Шпаргалка с командами Docker][habr_336654]
   * [Play with Docker — онлайн-сервис для практического знакомства с Docker][habr_334470]
   * [Play with Docker][play_with_docker]
@@ -429,10 +431,12 @@
 
 <details Kubernetes><summary>Kubernetes</summary>
 
-* [Selenium and Kubernetes for Scalable Parallel Automated Tests][swtestacademy_kubernetes_parallel]
-* [Руководство по Kubernetes, часть 1: приложения, микросервисы и контейнеры][habr_438982]
-* [Руководство по Kubernetes, часть 2: создание кластера и работа с ним][habr_438984]
-* [Configuring CI/CD on Kubernetes with Jenkins][Kubernetes_with_jenkins]
+* Инструкции по установке и настройке
+  * [Selenium and Kubernetes for Scalable Parallel Automated Tests][swtestacademy_kubernetes_parallel]
+* Для автоматизации тестирования
+  * [Руководство по Kubernetes, часть 1: приложения, микросервисы и контейнеры][habr_438982]
+  * [Руководство по Kubernetes, часть 2: создание кластера и работа с ним][habr_438984]
+  * [Configuring CI/CD on Kubernetes with Jenkins][Kubernetes_with_jenkins]
 
 [Kubernetes_with_jenkins]: https://medium.com/containerum/configuring-ci-cd-on-kubernetes-with-jenkins-89eab7234270
 [habr_438982]: https://habr.com/ru/company/ruvds/blog/438982/
