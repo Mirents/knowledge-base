@@ -13,7 +13,6 @@
 * [Google Java Style Guide (Eng)][javaguide_eng]
 * [Google Java Style Guide (Rus)][javaguide_rus]
 * [Google Java Style Guide (Rus)][javaguide_rus_skillbox]
-* [Google Java Style Guide (Rus)][javaguide_rus]
 
 [javaguide_eng]: https://google.github.io/styleguide/javaguide.html
 [javaguide_rus]: https://habr.com/ru/post/112042/
