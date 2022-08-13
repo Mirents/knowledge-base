@@ -114,7 +114,7 @@
 [w3schools_sql]: https://www.w3schools.com/sql/default.asp
 </details>
 
-<details Открытые API и сайты для тестирования><summary>Открытые API и сайты для тестирования</summary>
+<details Открытые API и сайты для обучения тестированию><summary>Открытые API и сайты для обучения тестированию</summary>
 
 * [Any  API][any_api] - открытые API для тестирования, как с авторизацией, так и без
 * [Public Apis][github_public_apis] - репозиторий со списком публичных API по различным категориям
