@@ -343,9 +343,38 @@
 
 <details Docker><summary>Docker</summary>
 
-* [Docker Selenium Tutorial for Parallel Testing on Selenium Grid (Eng)][swtestacademy_docker_selenium_tutorial]
+* В автоматизации тестирования
+  * [Docker Selenium Tutorial for Parallel Testing on Selenium Grid (Eng)][swtestacademy_docker_selenium_tutorial]
+  * [Selenoid Tutorial | Docker-Selenium Alternative for Parallel Testing (Eng)][swtestacademy_selenoid_tutorial]
+* Описания и руководства
+  * [Шпаргалка с командами Docker][habr_336654]
+  * [Play with Docker — онлайн-сервис для практического знакомства с Docker][habr_334470]
+  * [Play with Docker][play_with_docker]
+  * [Почему вам не нужен sshd в Docker-контейнере][habr_237737]
+  * [Недостающее введение в контейнеризацию][habr_541288]
+  * [Podman и Buildah для пользователей Docker][habr_467105]
+  * [Руководство по Docker Compose для начинающих][habr_450312]
+  * [Изучаем Docker, часть 1: основы][habr_438796]
+  * [Изучаем Docker, часть 2: термины и концепции][habr_439978]
+  * [Изучаем Docker, часть 3: файлы Dockerfile][habr_439980]
+  * [Изучаем Docker, часть 4: уменьшение размеров образов и ускорение их сборки][habr_440658]
+  * [Изучаем Docker, часть 5: команды][habr_440660]
+  * [Изучаем Docker, часть 6: работа с данными][habr_441574]
 
 [swtestacademy_docker_selenium_tutorial]: https://www.swtestacademy.com/docker-selenium-tutorial/
+[habr_336654]: https://habr.com/ru/company/flant/blog/336654/
+[habr_334470]: https://habr.com/ru/company/flant/blog/334470/
+[play_with_docker]: https://labs.play-with-docker.com/
+[habr_237737]: https://habr.com/ru/company/infopulse/blog/237737/
+[habr_541288]: https://habr.com/ru/post/541288/
+[habr_467105]: https://habr.com/ru/company/redhatrussia/blog/467105/
+[habr_450312]: https://habr.com/ru/company/ruvds/blog/450312/
+[habr_438796]: https://habr.com/ru/company/ruvds/blog/438796/
+[habr_439978]: https://habr.com/ru/company/ruvds/blog/439978/
+[habr_439980]: https://habr.com/ru/company/ruvds/blog/439980/
+[habr_440658]: https://habr.com/ru/company/ruvds/blog/440658/
+[habr_440660]: https://habr.com/ru/company/ruvds/blog/440660/
+[habr_441574]: https://habr.com/ru/company/ruvds/blog/441574/
 </details>
 
 <details Selenoid><summary>Selenoid</summary>
