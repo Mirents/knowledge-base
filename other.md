@@ -100,10 +100,16 @@
 * [Площадка freecodecamp (Eng)][freecodecamp] - обширная база курсов на различные тематики
 * [Площадка W3Schools (Eng)][w3schools] - обширная база курсов на различные тематики
 * [Площадка ProgLang (Rus)][proglang] - самоучитель Java, HTML, CSS
+* [SQL Задачи и решения][sql_learn]
+* [SQL Tutorial][w3schools_sql]
+* [Java для автоматизаторов][java-auto]
 
+[java-auto]: https://comaqa.gitbook.io/java-automation/
 [freecodecamp]: https://www.freecodecamp.org/
 [w3schools]: https://www.w3schools.com/
 [proglang]: http://proglang.su/
+[sql_learn]: http://www.sql-tutorial.ru/ru/content.html
+[w3schools_sql]: https://www.w3schools.com/sql/default.asp
 </details>
 
 <details Открытые API и сайты для тестирования><summary>Открытые API и сайты для тестирования</summary>
