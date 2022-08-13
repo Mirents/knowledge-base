@@ -6,11 +6,13 @@
 * [До 40 релизов в день в Enterprise: наша сool story][habr_563242]
 * [Как катать релизы несколько раз в день и спать спокойно][habr_542842]
 * [CI/CD DevOps Experience][ci_cd_devops_experience]
+* [CI/CD Tools Comparison: A Comprehensive Guide With Examples][lambdatest_cicd] - сравнение различных CI/CD инструментов с примерами
 
 [habr_568612]: https://habr.com/ru/company/otkritie/blog/568612/
 [habr_563242]: https://habr.com/ru/company/otkritie/blog/563242/
 [habr_542842]: https://habr.com/ru/company/yandex/blog/542842/
 [ci_cd_devops_experience]: https://pechenek.net/devops/ci-cd-devops-experience/
+[lambdatest_cicd]: https://www.lambdatest.com/learning-hub/cicd
 </details>
 
 <details Как запилить><summary>Как запилить</summary>
