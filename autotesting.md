@@ -363,6 +363,8 @@
   * [How To Create Jenkins Multibranch Pipeline][lambdatest_jenkins_multibranch_pipeline]
   * [Are You Following These Jenkins Best Practices?][lambdatest_jenkins_best_practices]
   * [Configuring CI/CD on Kubernetes with Jenkins][Kubernetes_with_jenkins]
+* Вспомогательные утилиты и плагины
+  * [Crontab Generator][crontab_generator] - генератор времени для периодического запуска Build'ов в Jenkins
 
 [jenkins_with_avtotests]: https://automation-remarks.com/tri-sposoba-podniat-jenkins-ci-dlia-vashikh-avtotiestov/
 [swtestacademy_parametrized_jenkins_job]: https://www.swtestacademy.com/parametrized-jenkins-job/
@@ -374,6 +376,7 @@
 [lambdatest_selenium_maven_jenkins]: https://www.lambdatest.com/blog/selenium-maven-jenkins-integration/
 [lambdatest_jenkins_multibranch_pipeline]: https://www.lambdatest.com/blog/how-to-create-jenkins-multibranch-pipeline/
 [lambdatest_jenkins_best_practices]: https://www.lambdatest.com/blog/jenkins-best-practices/
+[crontab_generator]: https://crontab-generator.org/
 
 </details>
 
