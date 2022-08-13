@@ -327,7 +327,9 @@
 * [How To Integrate Jenkins & Maven With Selenium?][lambdatest_selenium_maven_jenkins]
 * [How To Create Jenkins Multibranch Pipeline][lambdatest_jenkins_multibranch_pipeline]
 * [Are You Following These Jenkins Best Practices?][lambdatest_jenkins_best_practices]
+* [Три способа поднять Jenkins CI для ваших автотестов][jenkins_with_avtotests]
 
+[jenkins_with_avtotests]: https://automation-remarks.com/tri-sposoba-podniat-jenkins-ci-dlia-vashikh-avtotiestov/
 [swtestacademy_parametrized_jenkins_job]: https://www.swtestacademy.com/parametrized-jenkins-job/
 [swtestacademy_jenkins_selenium_java_maven]: https://www.swtestacademy.com/jenkins-selenium-java-maven/
 [swtestacademy_jenkins_git_ubuntu]: https://www.swtestacademy.com/jenkins-git-integration-ubuntu/
