@@ -105,6 +105,7 @@
 * [JUnit 5 Architecture][swtestacademy_junit5_architecture]
 * [JUnit 5 How to Repeat Failed Test][swtestacademy_junit5_repeat_failed_test]
 * [JUnit 5 Parallel Test Execution][swtestacademy_junit5_parallel_execution]
+* [JUnit Testing Tutorial: A Comprehensive Guide With Examples and Best Practices][lambdatest_junit_tutorial]
 
 [junit5_docs]: https://junit.org/junit5/docs/current/user-guide/
 [swtestacademy_junit5_extensions]: https://www.swtestacademy.com/junit-5-extensions/
@@ -112,6 +113,7 @@
 [swtestacademy_junit5_architecture]: https://www.swtestacademy.com/junit-5-architecture/
 [swtestacademy_junit5_repeat_failed_test]: https://www.swtestacademy.com/junit-5-how-to-repeat-failed-test/
 [swtestacademy_junit5_parallel_execution]: https://www.swtestacademy.com/junit5-parallel-test-execution/
+[lambdatest_junit_tutorial]: https://www.lambdatest.com/learning-hub/junit-tutorial
 </details>
 
 <details TestNG><summary>TestNG</summary>
@@ -232,7 +234,6 @@
   * [Localization Testing using Selenium Webdriver (Basic Tips)][swtestacademy_localization_testing]
   * [Read Configurations from a Property File in Selenium][swtestacademy_read_property]
   * [How to Take a Screenshot in Selenium | 4 Different Techniques][swtestacademy_screenshot]
-  * [CSS Selectors in Selenium 17 Tactics and Examples][swtestacademy_css_selectors]
   * [Handle SSL Certificate in Selenium][toolsqa_ssl_certificate]
   * [Selenium Headless Browser Testing][toolsqa_headless_browser]
 
@@ -285,7 +286,6 @@
 [swtestacademy_grid_video_recording]: https://www.swtestacademy.com/selenium-grid-video-recording-capability/
 [swtestacademy_javascript_error_handling]: https://www.swtestacademy.com/javascript-error-handling-javascriptexecutor/
 [swtestacademy_screenshot]: https://www.swtestacademy.com/screenshot-selenium-webdriver/
-[swtestacademy_css_selectors]: https://www.swtestacademy.com/css-selenium/
 [swtestacademy_find_broken_urls]: https://www.swtestacademy.com/find-broken-urls-using-selenium/
 [swtestacademy_local_parallel_testing]: https://www.swtestacademy.com/local-parallel-testing-selenium/
 [swtestacademy_selenium_wait_ajax]: https://www.swtestacademy.com/selenium-wait-javascript-angular-ajax/
@@ -299,15 +299,25 @@
 [swtestacademy_alert_selenium]: https://www.swtestacademy.com/alert-in-selenium/
 </details>
 
-<details XPath><summary>XPath</summary>
+<details XPath><summary>Locating Elements: XPath, CSS, TagName, Class Name</summary>
 
 * [Write Effective XPaths (Eng)][write_effective_xpaths]
 * [XPath в примерах][xpath_tutorial]
+* [Complete Guide For Using XPath In Selenium With Examples][lambdatest_xpath_examples]
 * [Xpath in Selenium with All Tactics and Examples (Eng)][swtestacademy_xpath]
+* [CSS Selectors in Selenium 17 Tactics and Examples][swtestacademy_css_selectors]
+* [How Pro-Testers Use CSS Selectors In Selenium Automation Scripts?][lambdatest_css_selectors]
+* [Locating Elements by TagName In Selenium][lambdatest_tagname]
+* [Selenium Java Tutorial – Class Name Locator In Selenium][lambdatest_class_name]
 
 [write_effective_xpaths]: https://www.toolsqa.com/selenium-webdriver/write-effective-xpaths/
 [xpath_tutorial]: http://zvon.org/xxl/XPathTutorial/Output_rus/
 [swtestacademy_xpath]: https://www.swtestacademy.com/xpath-selenium/
+[lambdatest_xpath_examples]: https://www.lambdatest.com/blog/complete-guide-for-using-xpath-in-selenium-with-examples/
+[swtestacademy_css_selectors]: https://www.swtestacademy.com/css-selenium/
+[lambdatest_css_selectors]: https://www.lambdatest.com/blog/how-pro-testers-use-css-selectors-in-selenium-automation-scripts/
+[lambdatest_tagname]: https://www.lambdatest.com/blog/locating-elements-by-tagname-in-selenium/
+[lambdatest_class_name]: https://www.lambdatest.com/blog/selenium-java-tutorial-class-name-locator-in-selenium/
 </details>
 
 <details Visual Testing><summary>Visual Testing</summary>
@@ -389,6 +399,7 @@
 * [Автоматизация тестирования в микросервисной архитектуре][habr_509280]
 * [Ядро автоматизации тестирования в микросервисной архитектуре][habr_333644]
 * [Если у вас нет собаки…][habr_350238]
+* [Automation Testing Tutorial: A Comprehensive Guide With Examples and Best Practices][lambdatest_automation_testing]
 
 [habr_565806]: https://habr.com/ru/post/565806/
 [habr_523802]: https://habr.com/ru/company/protei/blog/523802/
@@ -399,4 +410,5 @@
 [habr_509280]: https://habr.com/ru/company/avito/blog/509280/
 [habr_333644]: https://habr.com/ru/company/avito/blog/333644/
 [habr_350238]: https://habr.com/ru/company/alfa/blog/350238/
+[lambdatest_automation_testing]: https://www.lambdatest.com/learning-hub/automation-testing
 </details>
