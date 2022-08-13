@@ -55,13 +55,6 @@
 [habr_441574]: https://habr.com/ru/company/ruvds/blog/441574/
 </details>
 
-<details Jenkins><summary>Jenkins</summary>
-
-* [Три способа поднять Jenkins CI для ваших автотестов][jenkins_with_avtotests]
-
-[jenkins_with_avtotests]: https://automation-remarks.com/tri-sposoba-podniat-jenkins-ci-dlia-vashikh-avtotiestov/
-</details>
-
 <details Kubernetes><summary>Kubernetes</summary>
 
 * [Руководство по Kubernetes, часть 1: приложения, микросервисы и контейнеры][habr_438982]
