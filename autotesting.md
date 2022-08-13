@@ -62,13 +62,9 @@
 
 * [JDBC - Java DataBase Connectivity][java_online_jdbc]
 * [SQL Structured Query Language][java_online_sql]
-* [SQL Задачи и решения][sql_learn]
-* [SQL Tutorial][w3schools_sql]
 
 [java_online_jdbc]: https://java-online.ru/jdbc.xhtml
 [java_online_sql]: https://java-online.ru/sql.xhtml
-[sql_learn]: http://www.sql-tutorial.ru/ru/content.html
-[w3schools_sql]: https://www.w3schools.com/sql/default.asp
 </details>
 
 <details Stub, Mock><summary>Stub, Mock</summary>
@@ -393,13 +389,6 @@
 </details>
 
 ### Ссылки
-
-<details Курсы><summary>Бесплатные курсы</summary>
-
-* [Java для автоматизаторов][java-auto]
-
-[java-auto]: https://comaqa.gitbook.io/java-automation/
-</details>
 
 <details Курсы><summary>Полезные статьи</summary>
 
