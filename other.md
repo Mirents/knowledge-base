@@ -35,13 +35,24 @@
 
 <details PlantUML><summary>PlantUML</summary>
 
-* [Официальный сайт PlantUML][plantuml_base]
-* [Редактор диаграмм PlantUML № 1][plantuml_editor_1]
-* [Редактор диаграмм PlantUML № 2][plantuml_editor_2]
+* Редакторы
+  * [Редактор диаграмм PlantUML № 1][plantuml_editor_1]
+  * [Редактор диаграмм PlantUML № 2][plantuml_editor_2]
+* Инструкции и описания
+  * [Официальный сайт PlantUML][plantuml_base]
+  * [Using PlantUML Lightweight Software Architecture Description Method][crashedmind_plantuml] - пример использования PlantUML для описания сложных архитектурных схем
+  * [Real World PlantUML][real_world_plantuml] - обширная база с примерами диаграмм
+  * [SequenceDiagram][sequencediagram] - описание и примеры Sequence Diagram
+  * [PlantUML — инструмент продуктового разработчика][habr_577606]
 
 [plantuml_base]: https://plantuml.com/ru/
 [plantuml_editor_1]: https://www.planttext.com/
 [plantuml_editor_2]: https://plantuml-editor.kkeisuke.com/
+[crashedmind_plantuml]: https://crashedmind.github.io/PlantUMLHitchhikersGuide/C4/C4Stdlib.html
+[real_world_plantuml]: https://real-world-plantuml.com/
+[sequencediagram]: https://sequencediagram.org/instructions.html
+[habr_577606]: https://habr.com/ru/company/qiwi/blog/577606/
+
 </details>
 
 ### Курсы и ресурсы с материалами
