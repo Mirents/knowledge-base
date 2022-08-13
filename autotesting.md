@@ -341,7 +341,7 @@
 
 <details Docker><summary>Docker</summary>
 
-* [Docker Selenium Tutorial for Parallel Testing on Selenium Grid (Eng)][swtestacademy_parametrized_jenkins_job]
+* [Docker Selenium Tutorial for Parallel Testing on Selenium Grid (Eng)][swtestacademy_docker_selenium_tutorial]
 
 [swtestacademy_docker_selenium_tutorial]: https://www.swtestacademy.com/docker-selenium-tutorial/
 </details>
