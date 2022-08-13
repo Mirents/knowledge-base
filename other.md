@@ -106,6 +106,17 @@
 [proglang]: http://proglang.su/
 </details>
 
+<details Открытые API и сайты для тестирования><summary>Открытые API и сайты для тестирования</summary>
+
+* [Any  API][any_api] - открытые API для тестирования, как с авторизацией, так и без
+* [Public Apis][github_public_apis] - репозиторий со списком публичных API по различным категориям
+* [https://demoqa.com/][demoqa_com] - тестовый сайт для обучения автоматизации UI-тестирования
+
+[any_api]: https://any-api.com/
+[github_public_apis]: https://github.com/public-apis/public-apis
+[demoqa_com]: https://demoqa.com/
+</details>
+
 <details Ресурсы><summary>Ресурсы</summary>
 
 * [LambdaTest Learning Hub (Eng)][lambdatest] - Testing tutorials, guides, examples, and best practices
