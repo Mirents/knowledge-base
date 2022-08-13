@@ -394,7 +394,6 @@
 * [Ядро автоматизации тестирования в микросервисной архитектуре][habr_333644]
 * [Если у вас нет собаки…][habr_350238]
 * [Automation Testing Tutorial: A Comprehensive Guide With Examples and Best Practices][lambdatest_automation_testing]
-* [CI/CD Tools Comparison: A Comprehensive Guide With Examples][lambdatest_cicd] - сравнение различных CI/CD инструментов с примерами
 
 [habr_565806]: https://habr.com/ru/post/565806/
 [habr_523802]: https://habr.com/ru/company/protei/blog/523802/
@@ -406,5 +405,4 @@
 [habr_333644]: https://habr.com/ru/company/avito/blog/333644/
 [habr_350238]: https://habr.com/ru/company/alfa/blog/350238/
 [lambdatest_automation_testing]: https://www.lambdatest.com/learning-hub/automation-testing
-[lambdatest_cicd]: https://www.lambdatest.com/learning-hub/cicd
 </details>
