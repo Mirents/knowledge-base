@@ -399,6 +399,7 @@
   * [Podman и Buildah для пользователей Docker][habr_467105]
   * [Руководство по Docker Compose для начинающих][habr_450312]
   * [CRI-O — альтернатива Docker для запуска контейнеров в Kubernetes][habr_340010]
+  * [Как собирать проекты в Jenkins, если нужно много разных окружений][habr_481466]
   * [Изучаем Docker, часть 1: основы][habr_438796]
   * [Изучаем Docker, часть 2: термины и концепции][habr_439978]
   * [Изучаем Docker, часть 3: файлы Dockerfile][habr_439980]
@@ -406,6 +407,7 @@
   * [Изучаем Docker, часть 5: команды][habr_440660]
   * [Изучаем Docker, часть 6: работа с данными][habr_441574]
 
+[habr_481466]: https://habr.com/ru/post/481466/
 [habr_340010]: https://habr.com/ru/company/flant/blog/340010/
 [swtestacademy_docker_selenium_tutorial]: https://www.swtestacademy.com/docker-selenium-tutorial/
 [habr_336654]: https://habr.com/ru/company/flant/blog/336654/
