@@ -1,10 +1,18 @@
-<details Reload maven><summary>IntelliJ IDEA - Перезагрузка Maven-проекта</summary>
+<details IntelliJ IDEA - Перезагрузка Maven-проекта><summary>IntelliJ IDEA - Перезагрузка Maven-проекта</summary>
 
 ```
 1. mvn -U clean install
 2. Нажать на всплывающем окне справа 'Maven' и затем нажать 'Круглые стрелки'
 3. File -> Prefences -> Build, Execution, Deployment -> Build Tools -> Maven -> Repositories - Choose repoitory - Click Update
 ```
+
+</details>
+
+<details IntelliJ IDEA - Плагины><summary>IntelliJ IDEA - Плагины</summary>
+
+* [Java2PlantUML][github_Java2PlantUML] - отрисовка взаимодействия в Java
+
+[github_Java2PlantUML]: https://github.com/juanmf/Java2PlantUML
 
 </details>
 
