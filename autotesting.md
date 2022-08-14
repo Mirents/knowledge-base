@@ -341,9 +341,13 @@
 
 <details Visual Testing><summary>Visual Testing</summary>
 
-* [Automated Visual Testing using aShot and Selenium Web driver (Eng)][techblog_ashot]
+* [Automated Visual Testing using aShot and Selenium Web driver][techblog_ashot]
+* [Ocular - средство для визуальной валидации с Selenium WebDriver][qaat_vizualno_validacii]
+* [Ocular - репозиторий на GitHub][github_ocular]
 
 [techblog_ashot]: https://techblog.dotdash.com/automated-visual-testing-using-ashot-and-selenium-webdriver-e1da268b74c8
+[qaat_vizualno_validacii]: https://qaat.ru/ocular-sredstvo-dlya-vizualno-validacii-dlya-selenium-webdriver/
+[github_ocular]: https://github.com/vinsguru/ocular
 
 </details>
 
