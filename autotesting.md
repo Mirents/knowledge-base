@@ -43,6 +43,7 @@
 * [Allure-Framework. Работа с кодом][habr_359302]
 * [Allure Report and JUnit 5 Complete Guide][swtestacademy_allure_report_junit]
 * [Allure Report Selenium and TestNG Tutorial][swtestacademy_allure_report_testng]
+* [Запускаем кроссбраузерные UI test с Cucumber и Selenoid в Gitlab CI c Allure отчетом][habr_480940]
 
 [allure_docs]: https://docs.qameta.io/allure/
 [habr_358836]: https://habr.com/ru/company/sberbank/blog/358836/
@@ -441,6 +442,7 @@
 * [Поднимаем Selenium в Docker за 2 минуты][4te_selenium_docker]
 * [Configuration Manager][aerokube_cm] - менеджер настройки Selenoid
 * [Browser Images][aerokube_browser_images] - хранилище образов
+* [Запускаем кроссбраузерные UI test с Cucumber и Selenoid в Gitlab CI c Allure отчетом][habr_480940]
 
 [selenoid_docs]: https://aerokube.com/selenoid/latest/
 [swtestacademy_selenoid_tutorial]: https://www.swtestacademy.com/selenoid-tutorial/
@@ -449,6 +451,7 @@
 [4te_selenium_docker]: https://4te.me/post/selenium-docker/
 [aerokube_cm]: https://aerokube.com/cm/latest/
 [aerokube_browser_images]: https://aerokube.com/images/latest/
+[habr_480940]: https://habr.com/ru/post/480940/
 
 </details>
 
@@ -484,10 +487,12 @@
 * [Selenium Automation Hybrid Framework (Data Driven & Modular Driven)][toolsqa_hybrid_framework]
 * [Data Driven Framework (Apache POI – Excel)][toolsqa_data_driven_framework]
 * [Keyword Driven Framework - Introduction][toolsqa_keyword_driven_framework]
+* [Most Popular Test Automation Frameworks With Pros And Cons Of Each][softwaretestinghelp_test_automation_frameworks]
 
 [toolsqa_hybrid_framework]: https://www.toolsqa.com/selenium-webdriver/selenium-automation-hybrid-framework/
 [toolsqa_data_driven_framework]: https://www.toolsqa.com/selenium-webdriver/data-driven-framework/
 [toolsqa_keyword_driven_framework]: https://www.toolsqa.com/selenium-webdriver/keyword-driven-framework/introduction/
+[softwaretestinghelp_test_automation_frameworks]: https://www.softwaretestinghelp.com/test-automation-frameworks-selenium-tutorial-20/
 
 </details>
 
