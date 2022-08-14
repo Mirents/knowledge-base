@@ -239,6 +239,8 @@
 * Find broken Links
    * [Find Broken URLs using Selenium with Multiple Threads][swtestacademy_find_broken_urls]
    * [Find Broken Links in Selenium][toolsqa_find_broken_links]
+* Extensions
+  * [USING GOOGLE CHROME EXTENSIONS WITH SELENIUM][intoli_chrome_extensions]
 * Other  
   * [Custom Firefox Profile for Selenium][toolsqa_custom_firefox_profile]
   * [How to Change User Agent In Selenium Webdriver][swtestacademy_change_user_agent]
@@ -312,6 +314,7 @@
 [swtestacademy_window_handling]: https://www.swtestacademy.com/window-handling-in-selenium/
 [swtestacademy_selenium_iframe]: https://www.swtestacademy.com/selenium-iframe/
 [swtestacademy_alert_selenium]: https://www.swtestacademy.com/alert-in-selenium/
+[intoli_chrome_extensions]: https://intoli.com/blog/chrome-extensions-with-selenium/
 
 </details>
 
