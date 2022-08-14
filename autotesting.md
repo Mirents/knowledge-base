@@ -406,6 +406,7 @@
   * [Изучаем Docker, часть 4: уменьшение размеров образов и ускорение их сборки][habr_440658]
   * [Изучаем Docker, часть 5: команды][habr_440660]
   * [Изучаем Docker, часть 6: работа с данными][habr_441574]
+  * [Установка и использование Docker в Ubuntu 20.04][digitalocean_install_docker]
 
 [habr_481466]: https://habr.com/ru/post/481466/
 [habr_340010]: https://habr.com/ru/company/flant/blog/340010/
@@ -423,17 +424,28 @@
 [habr_440658]: https://habr.com/ru/company/ruvds/blog/440658/
 [habr_440660]: https://habr.com/ru/company/ruvds/blog/440660/
 [habr_441574]: https://habr.com/ru/company/ruvds/blog/441574/
+[digitalocean_install_docker]: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-ru
 
 </details>
 
 
 <details Selenoid><summary>Selenoid</summary>
 
+* [Официальная документация][selenoid_docs]
 * [Selenoid Tutorial | Docker-Selenium Alternative for Parallel Testing (Eng)][swtestacademy_selenoid_tutorial]
 * [Selenoid on Google Cloud (Eng)][swtestacademy_selenoid_google_cloud]
+* [Selenoid — сотни параллельных UI-тестов легко и быстро][habr_493626]
+* [Поднимаем Selenium в Docker за 2 минуты][4te_selenium_docker]
+* [Configuration Manager][aerokube_cm] - менеджер настройки Selenoid
+* [Browser Images][aerokube_browser_images] - хранилище образов
 
+[selenoid_docs]: https://aerokube.com/selenoid/latest/
 [swtestacademy_selenoid_tutorial]: https://www.swtestacademy.com/selenoid-tutorial/
 [swtestacademy_selenoid_google_cloud]: https://www.swtestacademy.com/selenoid-on-google-cloud/
+[habr_493626]: https://habr.com/ru/post/493626/
+[4te_selenium_docker]: https://4te.me/post/selenium-docker/
+[aerokube_cm]: https://aerokube.com/cm/latest/
+[aerokube_browser_images]: https://aerokube.com/images/latest/
 
 </details>
 
