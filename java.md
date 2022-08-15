@@ -78,3 +78,14 @@
 [github_javadoc]: https://github.com/wapmorgan/java_for_beginners_book/blob/master/appendix_b.md
 
 </details>
+
+<details Инструменты><summary>Инструменты</summary>
+
+* Hamcrest
+  * [Официальная документация][hamcrest_docs]
+  * [Список основных операций с описанием][github_hamcrest_cheat_sheet]
+
+[hamcrest_docs]: http://hamcrest.org/JavaHamcrest/
+[github_hamcrest_cheat_sheet]: https://github.com/devrath/automatic-octo-fiesta/wiki/Hamcrest-Cheat-sheet
+
+</details>
