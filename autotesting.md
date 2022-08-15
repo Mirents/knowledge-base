@@ -553,7 +553,6 @@ pause
 ```
 CHROMEDRIVER_NAME="chromedriver"
 PATH_TO_GOOGLE_CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-
 CURRENT_DIR="$( pwd; )";
 
 echo "\n\n________________________________________"
@@ -562,6 +561,17 @@ echo "ChromeDriver Version:"
 echo "\nGoogle Chrome Version:"
 "${PATH_TO_GOOGLE_CHROME}" --version
 echo "========================================\n\n"
+```
+
+</details>
+
+<details Скрипт добавления прав на запуск вебдрайвера><summary>Скрипт добавления прав на запуск вебдрайвера</summary>
+
+```
+CHROMEDRIVER_NAME="chromedriver"
+CURRENT_DIR="$( pwd; )";
+chmod +x "$CURRENT_DIR/${CHROMEDRIVER_NAME}"
+xattr -r -d com.apple.quarantine "$CURRENT_DIR/${CHROMEDRIVER_NAME}"
 ```
 
 </details>
