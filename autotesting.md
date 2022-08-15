@@ -571,7 +571,7 @@ echo "========================================\n\n"
 CHROMEDRIVER_NAME="chromedriver"
 CURRENT_DIR="$( pwd; )";
 chmod +x "$CURRENT_DIR/${CHROMEDRIVER_NAME}"
-xattr -r -d com.apple.quarantine "$CURRENT_DIR/${CHROMEDRIVER_NAME}"
+#xattr -r -d com.apple.quarantine "$CURRENT_DIR/${CHROMEDRIVER_NAME}"
 ```
 
 </details>
