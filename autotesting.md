@@ -29,9 +29,11 @@
 
 * [Официальная документация][cucumber_docs]
 * [Руководство: Cucumber + Java][habr_332754]
+* [Cucumber 3 + Java][habr_422651]
 
 [cucumber_docs]: https://cucumber.io/docs
 [habr_332754]: https://habr.com/ru/post/332754/
+[habr_422651]: https://habr.com/ru/post/422651/
 
 </details>
 
