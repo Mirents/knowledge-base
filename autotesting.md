@@ -530,3 +530,38 @@
 [lambdatest_automation_testing]: https://www.lambdatest.com/learning-hub/automation-testing
 
 </details>
+
+### Tools
+
+<details Скрипты проверки версии вебдрайвера и браузера><summary>Скрипты проверки версии вебдрайвера и браузера</summary>
+
+* Для Windows в папке с вебдрайдером выполнить скрипт (Пути и имена файлов при необходимости подкорректировать)
+
+```
+set PATH_TO_CHROME="C:\Program Files\Google\Chrome\Application\"
+set CHROMEDRIVER_NAME="chromedriver.exe"
+set CURRENT_PATH=%~dp0
+
+echo %CURRENT_PATH:~0,-1%
+dir /B/AD %PATH_TO_CHROME%|findstr /R /C:"^[0-9].*\..*[0-9]$"
+%CURRENT_PATH%%CHROMEDRIVER_NAME% --version
+pause
+```
+
+* Для MacOs/Linux в папке с вебдрайдером выполнить скрипт (Пути и имена файлов при необходимости подкорректировать)
+
+```
+CHROMEDRIVER_NAME="/User/Opanki/Download/chromedriver"
+PATH_TO_GOOGLE_CHROME="/Application/Google Chrome.app/Contents/MacOS/Google Chrome"
+
+CURRENT_DIR="$( pwd; )";
+
+echo "\n\n________________________________________"
+echo "ChromeDriver Version:"
+"$CURRENT_DIR/${CHROMEDRIVER_NAME}" --version
+echo "\nGoogle Chrome Version:"
+"${PATH_TO_GOOGLE_CHROME}" --version
+echo "========================================\n\n"
+```
+
+</details>
