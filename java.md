@@ -8,11 +8,15 @@
 
 </details>
 
-<details IntelliJ IDEA - Плагины><summary>IntelliJ IDEA - Плагины</summary>
+<details IntelliJ IDEA><summary>IntelliJ IDEA</summary>
 
-* [Java2PlantUML][github_Java2PlantUML] - отрисовка взаимодействия в Java
+* Плагины
+  * [Java2PlantUML][github_Java2PlantUML] - отрисовка взаимодействия в Java
+* Разное
+  * [Горячие клавиши Windows][javarush_idea_hot_keys]
 
 [github_Java2PlantUML]: https://github.com/juanmf/Java2PlantUML
+[javarush_idea_hot_keys]: https://javarush.ru/groups/posts/615-idea-hot-keys
 
 </details>
 
@@ -63,4 +67,14 @@
 [habr_278313]: https://habr.com/ru/company/luxoft/blog/278313/
 [habr_280782]: https://habr.com/ru/company/luxoft/blog/280782/
 [habr_599603]: https://habr.com/ru/post/599603/
+</details>
+
+</details>
+
+<details Javadoc><summary>Javadoc</summary>
+
+* [Приложение к книге с описанием дескрипторов][github_javadoc]
+
+[github_javadoc]: https://github.com/wapmorgan/java_for_beginners_book/blob/master/appendix_b.md
+
 </details>
