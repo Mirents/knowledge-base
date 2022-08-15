@@ -184,6 +184,8 @@
   * [JavaScript Error Handling with Javascriptexecutor in Selenium][swtestacademy_javascript_error_handling]
   * [JavascriptExecutor in Selenium Complete Guide][swtestacademy_javascriptexecutor_in_selenium]
   * [Scroll Web elements and Web page Selenium WebDriver using Javascript][toolsqa_scroll_element]
+  * [JavaScript Execution with Selenium][packt_javascript_execution]
+  * [jQuery injection for Selenium Automation tests][medium_jquery_injection]
 * Waits
   * [How to use implicit and explicit waits in Selenium][implicit_and_explicit_waits]
   * [Selenium Wait Tutorial with All Strategies][swtestacademy_selenium_wait]
@@ -255,6 +257,8 @@
   * [Handle SSL Certificate in Selenium][toolsqa_ssl_certificate]
   * [Selenium Headless Browser Testing][toolsqa_headless_browser]
 
+[medium_jquery_injection]: https://medium.com/virtualmind-io/jquery-injection-for-selenium-automation-tests-f6121ea57993
+[packt_javascript_execution]: https://www.packt.com/javascript-execution-selenium/
 [lambdatest_selenium_grid4]: https://www.lambdatest.com/blog/selenium-grid-4-tutorial-for-distributed-testing/
 [lambdatest_relative_locator]: https://www.lambdatest.com/blog/selenium-4-relative-locator/
 [lambdatest_new_selenium4]: https://www.lambdatest.com/blog/what-is-deprecated-in-selenium4/
