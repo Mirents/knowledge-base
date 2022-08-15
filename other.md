@@ -46,6 +46,8 @@
   * [PlantUML Documentation][plantuml_documentation] - описание разных типов диаграмм
 * Статьи
   * [PlantUML — инструмент продуктового разработчика][habr_577606]
+  * [Презентация как код, или Почему я больше не пользуюсь Powerpoint-ом][habr_456032]
+  * [LJV: Чему нас может научить визуализация структур данных в Java][habr_599045]
 
 [plantuml_base]: https://plantuml.com/ru/
 [plantuml_editor_1]: https://www.planttext.com/
@@ -55,6 +57,8 @@
 [sequencediagram]: https://sequencediagram.org/instructions.html
 [habr_577606]: https://habr.com/ru/company/qiwi/blog/577606/
 [plantuml_documentation]: https://plantuml-documentation.readthedocs.io/en/latest/
+[habr_456032]: https://habr.com/ru/post/456032/
+[habr_599045]: https://habr.com/ru/post/599045/
 
 </details>
 
