@@ -552,7 +552,7 @@ pause
 
 ```
 CHROMEDRIVER_NAME="chromedriver"
-PATH_TO_GOOGLE_CHROME="/Application/Google Chrome.app/Contents/MacOS/Google Chrome"
+PATH_TO_GOOGLE_CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 
 CURRENT_DIR="$( pwd; )";
 
