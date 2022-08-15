@@ -563,6 +563,8 @@ echo "\nGoogle Chrome Version:"
 echo "========================================\n\n"
 ```
 
+Скрипт сохранить в файл "run.bat", опправить пути к файлам и запустить в папке с вебдрайвером.
+
 </details>
 
 <details Скрипт добавления прав на запуск вебдрайвера><summary>Скрипт добавления прав на запуск вебдрайвера</summary>
@@ -573,5 +575,7 @@ CURRENT_DIR="$( pwd; )";
 chmod +x "$CURRENT_DIR/${CHROMEDRIVER_NAME}"
 #xattr -r -d com.apple.quarantine "$CURRENT_DIR/${CHROMEDRIVER_NAME}"
 ```
+
+Скрипт сохранить в папке в вебдрайвером с названием "run.sh", поправить пути и выполнить в терминале командой **sh run.sh**.
 
 </details>
