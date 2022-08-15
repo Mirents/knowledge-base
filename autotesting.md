@@ -551,7 +551,7 @@ pause
 * Для MacOs/Linux в папке с вебдрайдером выполнить скрипт (Пути и имена файлов при необходимости подкорректировать)
 
 ```
-CHROMEDRIVER_NAME="/User/Opanki/Download/chromedriver"
+CHROMEDRIVER_NAME="chromedriver"
 PATH_TO_GOOGLE_CHROME="/Application/Google Chrome.app/Contents/MacOS/Google Chrome"
 
 CURRENT_DIR="$( pwd; )";
