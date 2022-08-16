@@ -11,6 +11,8 @@
 * [Визуализация команд Git][visualizing_git_concepts]
 * [Виртуальный тренажер № 1][trainer_1]
 * [Виртуальный тренажер № 2][trainer_2]
+* [How to Sync Your Fork with the Original Git Repository][freecodecamp_fork_sync]
+* [How to manage multiple remote repositories with git][dev_manage_repositories]
 
 [git_book]: https://git-scm.com/book/ru/v2
 [gittutorial_eng]: https://git-scm.com/docs/gittutorial
@@ -21,6 +23,8 @@
 [visualizing_git_concepts]: https://onlywei.github.io/explain-git-with-d3/
 [trainer_1]: https://learngitbranching.js.org/
 [trainer_2]: https://git-school.github.io/visualizing-git/
+[freecodecamp_fork_sync]: https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/
+[dev_manage_repositories]: https://dev.to/eugenedorfling/how-to-manage-multiple-remote-repositories-with-git-terminal-ffp
 
 </details>
 
