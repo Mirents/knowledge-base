@@ -72,6 +72,16 @@
 
 </details>
 
+<details Hamcrest><summary>Hamcrest</summary>
+ 
+ * [Официальная документация][hamcrest_docs]
+ * [Список основных операций с описанием][github_hamcrest_cheat_sheet]
+
+[hamcrest_docs]: http://hamcrest.org/JavaHamcrest/
+[github_hamcrest_cheat_sheet]: https://github.com/devrath/automatic-octo-fiesta/wiki/Hamcrest-Cheat-sheet
+
+</details>
+
 
 <details Работа с БД><summary>Работа с БД</summary>
 
