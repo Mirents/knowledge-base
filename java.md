@@ -81,12 +81,9 @@
 
 <details Инструменты><summary>Инструменты</summary>
 
-* Hamcrest
-  * [Официальная документация][hamcrest_docs]
-  * [Список основных операций с описанием][github_hamcrest_cheat_sheet]
+ * [Convert XML or JSON to Java Pojo Classes - Online][pojo_sodhanalibrary]
 
-[hamcrest_docs]: http://hamcrest.org/JavaHamcrest/
-[github_hamcrest_cheat_sheet]: https://github.com/devrath/automatic-octo-fiesta/wiki/Hamcrest-Cheat-sheet
+[pojo_sodhanalibrary]: http://pojo.sodhanalibrary.com/
 
 </details>
 
