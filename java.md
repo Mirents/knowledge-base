@@ -89,3 +89,20 @@
 [github_hamcrest_cheat_sheet]: https://github.com/devrath/automatic-octo-fiesta/wiki/Hamcrest-Cheat-sheet
 
 </details>
+
+<details Паттерны проектирования><summary>Паттерны проектирования</summary>
+
+* Hamcrest
+  * [Шпаргалка по шаблонам проектирования][habr_210288]
+  * [СТРУКТУРНЫЕ ПАТТЕРНЫ ПРОЕКТИРОВАНИЯ:][mediasoft_strukturnye_patterny] ДЛЯ КАКИХ ЗАДАЧ НУЖНЫ, ВИДЫ И ПРИМЕРЫ РЕАЛИЗАЦИИ
+  * [ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ ПРОЕКТИРОВАНИЯ:][mediasoft_povedencheskie_patterny] ДЛЯ КАКИХ ЗАДАЧ НУЖНЫ, ВИДЫ И ПРИМЕРЫ РЕАЛИЗАЦИИ
+  * [ПОРОЖДАЮЩИЕ ПАТТЕРНЫ ПРОЕКТИРОВАНИЯ:][mediasoft_porozhdayushie_patterny] ДЛЯ КАКИХ ЗАДАЧ НУЖНЫ, ВИДЫ И ПРИМЕРЫ РЕАЛИЗАЦИИ
+  * [Design Patterns][sourcemaking_design_patterns] - паттерны проектирования с примерами
+
+[sourcemaking_design_patterns]: https://sourcemaking.com/design_patterns
+[habr_210288]: https://habr.com/ru/post/210288/
+[mediasoft_strukturnye_patterny]: https://academy.mediasoft.team/article/strukturnye-patterny-proektirovaniya-dlya-kakikh-zadach-nuzhny-vidy-i-primery-realizacii/
+[mediasoft_povedencheskie_patterny]: https://academy.mediasoft.team/article/povedencheskie-patterny-proektirovaniya-dlya-kakikh-zadach-nuzhny-vidy-i-primery-realizacii/
+[mediasoft_porozhdayushie_patterny]: https://academy.mediasoft.team/article/porozhdayushie-patterny-proektirovaniya-dlya-kakikh-zadach-nuzhny-vidy-i-primery-realizacii/
+
+</details>
