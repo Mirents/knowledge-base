@@ -92,13 +92,12 @@
 
 <details Паттерны проектирования><summary>Паттерны проектирования</summary>
 
-* Hamcrest
-  * [Шпаргалка по шаблонам проектирования][habr_210288]
-  * [СТРУКТУРНЫЕ ПАТТЕРНЫ ПРОЕКТИРОВАНИЯ:][mediasoft_strukturnye_patterny] ДЛЯ КАКИХ ЗАДАЧ НУЖНЫ, ВИДЫ И ПРИМЕРЫ РЕАЛИЗАЦИИ
-  * [ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ ПРОЕКТИРОВАНИЯ:][mediasoft_povedencheskie_patterny] ДЛЯ КАКИХ ЗАДАЧ НУЖНЫ, ВИДЫ И ПРИМЕРЫ РЕАЛИЗАЦИИ
-  * [ПОРОЖДАЮЩИЕ ПАТТЕРНЫ ПРОЕКТИРОВАНИЯ:][mediasoft_porozhdayushie_patterny] ДЛЯ КАКИХ ЗАДАЧ НУЖНЫ, ВИДЫ И ПРИМЕРЫ РЕАЛИЗАЦИИ
-  * [Design Patterns][sourcemaking_design_patterns] - паттерны проектирования с примерами
-  * [Паттерны — примеры из жизни][yapro_6428]
+ * [Шпаргалка по шаблонам проектирования][habr_210288]
+ * [СТРУКТУРНЫЕ ПАТТЕРНЫ ПРОЕКТИРОВАНИЯ:][mediasoft_strukturnye_patterny] ДЛЯ КАКИХ ЗАДАЧ НУЖНЫ, ВИДЫ И ПРИМЕРЫ РЕАЛИЗАЦИИ
+ * [ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ ПРОЕКТИРОВАНИЯ:][mediasoft_povedencheskie_patterny] ДЛЯ КАКИХ ЗАДАЧ НУЖНЫ, ВИДЫ И ПРИМЕРЫ РЕАЛИЗАЦИИ
+ * [ПОРОЖДАЮЩИЕ ПАТТЕРНЫ ПРОЕКТИРОВАНИЯ:][mediasoft_porozhdayushie_patterny] ДЛЯ КАКИХ ЗАДАЧ НУЖНЫ, ВИДЫ И ПРИМЕРЫ РЕАЛИЗАЦИИ
+ * [Design Patterns][sourcemaking_design_patterns] - паттерны проектирования с примерами
+ * [Паттерны — примеры из жизни][yapro_6428]
 
 [yapro_6428]: https://yapro.ru/article/6428
 [sourcemaking_design_patterns]: https://sourcemaking.com/design_patterns
