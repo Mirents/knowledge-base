@@ -98,7 +98,9 @@
   * [ПОВЕДЕНЧЕСКИЕ ПАТТЕРНЫ ПРОЕКТИРОВАНИЯ:][mediasoft_povedencheskie_patterny] ДЛЯ КАКИХ ЗАДАЧ НУЖНЫ, ВИДЫ И ПРИМЕРЫ РЕАЛИЗАЦИИ
   * [ПОРОЖДАЮЩИЕ ПАТТЕРНЫ ПРОЕКТИРОВАНИЯ:][mediasoft_porozhdayushie_patterny] ДЛЯ КАКИХ ЗАДАЧ НУЖНЫ, ВИДЫ И ПРИМЕРЫ РЕАЛИЗАЦИИ
   * [Design Patterns][sourcemaking_design_patterns] - паттерны проектирования с примерами
+  * [Паттерны — примеры из жизни][yapro_6428]
 
+[yapro_6428]: https://yapro.ru/article/6428
 [sourcemaking_design_patterns]: https://sourcemaking.com/design_patterns
 [habr_210288]: https://habr.com/ru/post/210288/
 [mediasoft_strukturnye_patterny]: https://academy.mediasoft.team/article/strukturnye-patterny-proektirovaniya-dlya-kakikh-zadach-nuzhny-vidy-i-primery-realizacii/
