@@ -350,7 +350,9 @@
 * [How Pro-Testers Use CSS Selectors In Selenium Automation Scripts?][lambdatest_css_selectors]
 * [Locating Elements by TagName In Selenium][lambdatest_tagname]
 * [Selenium Java Tutorial – Class Name Locator In Selenium][lambdatest_class_name]
+* [CSS и XPath для QA][habr_588282]
 
+[habr_588282]: https://habr.com/ru/company/skyeng/blog/588282/
 [write_effective_xpaths]: https://www.toolsqa.com/selenium-webdriver/write-effective-xpaths/
 [xpath_tutorial]: http://zvon.org/xxl/XPathTutorial/Output_rus/
 [swtestacademy_xpath]: https://www.swtestacademy.com/xpath-selenium/
