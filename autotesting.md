@@ -381,7 +381,9 @@
   * [Crontab Generator][crontab_generator] - генератор времени для периодического запуска Build'ов в Jenkins
 * Плагины
   * [Active Choices][jenkins_uno_choice] - создание меню с различными элементами интерфейса
+  * [Active Choices][infracloud_jenkins_parameters] - создание динамических элементов интерфейса с примерами
 
+[infracloud_jenkins_parameters]: https://www.infracloud.io/blogs/render-jenkins-build-parameters-dynamically/
 [jenkins_uno_choice]: https://plugins.jenkins.io/uno-choice/
 [jenkins_with_avtotests]: https://automation-remarks.com/tri-sposoba-podniat-jenkins-ci-dlia-vashikh-avtotiestov/
 [swtestacademy_parametrized_jenkins_job]: https://www.swtestacademy.com/parametrized-jenkins-job/
