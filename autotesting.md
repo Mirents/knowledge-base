@@ -102,7 +102,9 @@
 * [WireMock – швейцарский нож в арсенале тестировщика. Часть 2][habr_679330]
 * [How to Create a Standalone Wiremock Stub Server][swtestacademy_wiremock]
 * [WireMock JUnit 5 and Rest-Assured Example][swtestacademy_wiremock_junit]
+* [Официальная документация MockServer][mock_server_doc]
 
+[mock_server_doc]: https://www.mock-server.com/
 [mockito_site]: https://site.mockito.org/
 [wiremock_site]: https://wiremock.org/
 [habr_679276]: https://habr.com/ru/company/rostelecom/blog/679276/
