@@ -15,11 +15,13 @@
 [lambdatest_cicd]: https://www.lambdatest.com/learning-hub/cicd
 </details>
 
-<details Как запилить><summary>Как запилить</summary>
+<details Разное><summary>Разное</summary>
 
 * [Как запилить джентльменский релиз][habr_588568]
+* [Статистика по рынку труда в тестировании ПО][clingon_pythonanywhere]
 
 [habr_588568]: https://habr.com/ru/amp/post/588568/
+[clingon_pythonanywhere]: https://clingon.pythonanywhere.com/
 </details>
 
 ### Инструменты
