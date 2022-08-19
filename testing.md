@@ -1,8 +1,10 @@
 <details Общие статьи><summary>Общие статьи</summary>
 
 * [Чек-лист по тестированию HTML-верстки][testirovanie_html_verstki]
+* [Пирамида тестов на практике][habr_358950]
 
 [testirovanie_html_verstki]: https://www.100up.ru/testirovanie-html-verstki/
+[habr_358950]: https://habr.com/ru/post/358950/
 </details>
 
 <details Mobile And Responsive Testing><summary>Mobile And Responsive Testing</summary>
