@@ -30,7 +30,7 @@
 [clingon_pythonanywhere]: https://clingon.pythonanywhere.com/
 </details>
 
-<details Архитектура><summary>Архитектура</summary>
+<details Архитектура приложений><summary>Архитектура приложений</summary>
 
 * [System Design][github_system_design] - архитектура приложений описана в разделе "Chapter V"
 * [Примеры архитектурных решений в крупных проектах][yapro_5844]
