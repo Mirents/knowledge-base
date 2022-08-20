@@ -30,6 +30,17 @@
 [clingon_pythonanywhere]: https://clingon.pythonanywhere.com/
 </details>
 
+<details Архитектура><summary>Архитектура</summary>
+
+* [System Design][github_system_design] - архитектура приложений описана в разделе "Chapter V"
+* [Примеры архитектурных решений в крупных проектах][yapro_5844]
+
+[github_system_design]: https://github.com/karanpratapsingh/system-design
+[yapro_5844]: https://yapro.ru/article/5844
+</details>
+
+<details PlantUML><summary>PlantUML</summary>
+
 ### Инструменты
 
 <details Markdown><summary>Markdown</summary>
