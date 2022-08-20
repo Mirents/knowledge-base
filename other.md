@@ -21,7 +21,9 @@
 * [Статистика по рынку труда в тестировании ПО][clingon_pythonanywhere]
 * [System Design (1)][github_system_design]
 * [System Design (2)][karanpratapsingh_system_design]
+* [yapro][yapro] - ресурс с различными статьями
 
+[yapro]: https://yapro.ru/
 [github_system_design]: https://github.com/karanpratapsingh/system-design
 [karanpratapsingh_system_design]: https://www.karanpratapsingh.com/courses/system-design
 [habr_588568]: https://habr.com/ru/amp/post/588568/
