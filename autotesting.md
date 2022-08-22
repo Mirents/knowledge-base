@@ -379,6 +379,14 @@
 
 </details>
 
+<details Visual Testing><summary>Visual Testing</summary>
+
+* [Pact][pact_io] - контрактные тесты
+
+[pact_io]: https://docs.pact.io/
+
+</details>
+
 
 <details Jenkins><summary>Jenkins</summary>
 
