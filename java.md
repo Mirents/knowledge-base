@@ -50,7 +50,9 @@
 * [Шпаргалка Java программиста 7.2 Типовые задачи: Обход Map'ы, подсчет количества вхождений подстроки][habr_278313]
 * [Шпаргалка Java программиста 8. Библиотеки для работы с Json (Gson, Fastjson, LoganSquare, Jackson, JsonPath и другие)][habr_280782]
 * [Полезные и неизвестные возможности Java][habr_599603]
+* [Общедоступная таблица со ссылками по обучению Java][juja-452ABD]
 
+[juja-452ABD]: http://bit.ly/juja-452ABD
 [habr_237043]: https://habr.com/ru/post/237043/
 [habr_476098]: https://habr.com/ru/company/epam_systems/blog/476098/
 [habr_128017]: https://habr.com/ru/post/128017/
