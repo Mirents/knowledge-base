@@ -7,7 +7,9 @@
 * [Как катать релизы несколько раз в день и спать спокойно][habr_542842]
 * [CI/CD DevOps Experience][ci_cd_devops_experience]
 * [CI/CD Tools Comparison: A Comprehensive Guide With Examples][lambdatest_cicd] - сравнение различных CI/CD инструментов с примерами
+* [5 способов развёртывания микросервисов][habr_681386]
 
+[habr_681386]: https://habr.com/ru/company/first/blog/681386/
 [habr_568612]: https://habr.com/ru/company/otkritie/blog/568612/
 [habr_563242]: https://habr.com/ru/company/otkritie/blog/563242/
 [habr_542842]: https://habr.com/ru/company/yandex/blog/542842/
