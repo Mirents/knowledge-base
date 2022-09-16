@@ -1,4 +1,4 @@
-<details IntelliJ IDEA - Перезагрузка Maven-проекта><summary>IntelliJ IDEA - Перезагрузка Maven-проекта</summary>
+<details><summary>IntelliJ IDEA - Перезагрузка Maven-проекта</summary>
 
 ```
 1. mvn -U clean install
@@ -8,7 +8,7 @@
 
 </details>
 
-<details IntelliJ IDEA><summary>IntelliJ IDEA</summary>
+<details><summary>IntelliJ IDEA</summary>
 
 * Плагины
   * [Java2PlantUML][github_Java2PlantUML] - отрисовка взаимодействия в Java
@@ -20,7 +20,7 @@
 
 </details>
 
-<details Java Style Guide><summary>Java Style Guide</summary>
+<details><summary>Java Style Guide</summary>
 
 * [Google Java Style Guide (Eng)][javaguide_eng]
 * [Google Java Style Guide (Rus)][javaguide_rus]
@@ -32,7 +32,7 @@
 
 </details>
 
-<details Ссылки><summary>Ссылки</summary>
+<details><summary>Ссылки</summary>
 
 * [Справочник по Java Collections Framework][habr_237043]
 * [Структуры данных в Java. Полезные методы вспомогательных классов][habr_476098]
@@ -69,9 +69,7 @@
 [habr_599603]: https://habr.com/ru/post/599603/
 </details>
 
-</details>
-
-<details Javadoc><summary>Javadoc</summary>
+<details><summary>Javadoc</summary>
 
 * [Приложение к книге с описанием дескрипторов][github_javadoc]
 
@@ -79,7 +77,7 @@
 
 </details>
 
-<details Инструменты><summary>Инструменты</summary>
+<details><summary>Инструменты</summary>
 
  * [Convert XML or JSON to Java Pojo Classes - Online][pojo_sodhanalibrary]
 
@@ -87,7 +85,7 @@
 
 </details>
 
-<details Паттерны проектирования><summary>Паттерны проектирования</summary>
+<details><summary>Паттерны проектирования</summary>
 
  * [Шпаргалка по шаблонам проектирования][habr_210288]
  * [СТРУКТУРНЫЕ ПАТТЕРНЫ ПРОЕКТИРОВАНИЯ:][mediasoft_strukturnye_patterny] ДЛЯ КАКИХ ЗАДАЧ НУЖНЫ, ВИДЫ И ПРИМЕРЫ РЕАЛИЗАЦИИ

@@ -1,6 +1,6 @@
 ### Полезные материалы
 
-<details Как катать CI/CD><summary>Как катать CI/CD</summary>
+<details><summary>Как катать CI/CD</summary>
 
 * [Как мы настроили CI/CD, чтобы релизить часто и без страха][habr_568612]
 * [До 40 релизов в день в Enterprise: наша сool story][habr_563242]
@@ -15,9 +15,10 @@
 [lambdatest_cicd]: https://www.lambdatest.com/learning-hub/cicd
 </details>
 
-<details Разное><summary>Разное</summary>
+<details><summary>Разное</summary>
 
 * [Как запилить джентльменский релиз][habr_588568]
+* [Мой первый бот для Сервисдеска: умещается в кармане, расширяется как Вселенная][habr_677022]
 * [Статистика по рынку труда в тестировании ПО][clingon_pythonanywhere]
 * [System Design (1)][github_system_design]
 * [System Design (2)][karanpratapsingh_system_design]
@@ -27,10 +28,11 @@
 [github_system_design]: https://github.com/karanpratapsingh/system-design
 [karanpratapsingh_system_design]: https://www.karanpratapsingh.com/courses/system-design
 [habr_588568]: https://habr.com/ru/amp/post/588568/
+[habr_677022]: https://habr.com/ru/amp/post/677022/
 [clingon_pythonanywhere]: https://clingon.pythonanywhere.com/
 </details>
 
-<details Архитектура приложений><summary>Архитектура приложений</summary>
+<details><summary>Архитектура приложений</summary>
 
 * [System Design][github_system_design] - архитектура приложений описана в разделе "Chapter V"
 * [Примеры архитектурных решений в крупных проектах][yapro_5844]
@@ -39,11 +41,9 @@
 [yapro_5844]: https://yapro.ru/article/5844
 </details>
 
-<details PlantUML><summary>PlantUML</summary>
-
 ### Инструменты
 
-<details Markdown><summary>Markdown</summary>
+<details><summary>Markdown</summary>
 
 * [Markdown Guide][markdown_guide]
 * [Markdown Github Editor][markdown_github_editor]
@@ -52,7 +52,7 @@
 [markdown_github_editor]: https://jbt.github.io/markdown-editor/
 </details>
 
-<details PlantUML><summary>PlantUML</summary>
+<details><summary>PlantUML</summary>
 
 * Редакторы
   * [Редактор диаграмм PlantUML № 1][plantuml_editor_1]
@@ -83,7 +83,7 @@
 
 ### Курсы и ресурсы с материалами
 
-<details Курсы><summary>Курсы</summary>
+<details><summary>Курсы</summary>
 
 * [Площадка freecodecamp (Eng)][freecodecamp] - обширная база курсов на различные тематики
 * [Площадка W3Schools (Eng)][w3schools] - обширная база курсов на различные тематики
@@ -100,7 +100,7 @@
 [w3schools_sql]: https://www.w3schools.com/sql/default.asp
 </details>
 
-<details Открытые API и сайты для обучения тестированию><summary>Открытые API и сайты для обучения тестированию</summary>
+<details><summary>Открытые API и сайты для обучения тестированию</summary>
 
 * [Any  API][any_api] - открытые API для тестирования, как с авторизацией, так и без
 * [Public Apis][github_public_apis] - репозиторий со списком публичных API по различным категориям
@@ -111,7 +111,7 @@
 [demoqa_com]: https://demoqa.com/
 </details>
 
-<details Обучающие ресурсы><summary>Обучающие ресурсы</summary>
+<details><summary>Обучающие ресурсы</summary>
 
 * [LambdaTest Learning Hub (Eng)][lambdatest] - Testing tutorials, guides, examples, and best practices
 * [SW TEST ACADEMY (Eng)][swtestacademy] - материалы на темы тестирования, автоматизации, НТ и DevOps

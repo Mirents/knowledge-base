@@ -1,4 +1,4 @@
-<details Общие статьи><summary>Общие статьи</summary>
+<details><summary>Общие статьи</summary>
 
 * [Чек-лист по тестированию HTML-верстки][testirovanie_html_verstki]
 * [Пирамида тестов на практике][habr_358950]
@@ -7,7 +7,7 @@
 [habr_358950]: https://habr.com/ru/post/358950/
 </details>
 
-<details Mobile And Responsive Testing><summary>Mobile And Responsive Testing</summary>
+<details><summary>Mobile And Responsive Testing</summary>
 
 * [Mobile Testing Tutorial: A Comprehensive Guide With Examples and Best Practices][lambdatest_mobile_testing] - цикл статей по тестированию мобильных устройств
 * [Responsive Testing Tutorial: A Comprehensive Guide With Examples and Best Practices][lambdatest_responsive_testing] - цикл статей по адаптивному тестированию
@@ -16,7 +16,7 @@
 [lambdatest_responsive_testing]: https://www.lambdatest.com/learning-hub/responsive-testing
 </details>
 
-<details Cross Browser Testing><summary>Cross Browser Testing</summary>
+<details><summary>Cross Browser Testing</summary>
 
 * [Cross Browser Compatibility Tutorial: A Comprehensive Guide With Examples and Best Practices][lambdatest_crossbrowser_compatibility]
 * [Cross Browser Testing Tutorial: A Comprehensive Guide With Examples and Best Practices][lambdatest_cross_browser]

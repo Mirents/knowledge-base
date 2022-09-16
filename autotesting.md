@@ -1,6 +1,6 @@
 ### Инструменты
 
-<details Git><summary>Git</summary>
+<details><summary>Git</summary>
 
 * [Git Book (Eng/Rus)][git_book]
 * [Git tutorial (Eng)][gittutorial_eng]
@@ -29,7 +29,7 @@
 </details>
 
 
-<details Cucumber><summary>Cucumber</summary>
+<details><summary>Cucumber</summary>
 
 * [Официальная документация][cucumber_docs]
 * [Руководство: Cucumber + Java][habr_332754]
@@ -42,7 +42,7 @@
 </details>
 
 
-<details Allure Report><summary>Allure Report</summary>
+<details><summary>Allure Report</summary>
 
 * [Официальная документация][allure_docs]
 * [Allure-framework. Часть 1][habr_358836]
@@ -60,7 +60,7 @@
 </details>
 
 
-<details Maven><summary>Maven</summary>
+<details><summary>Maven</summary>
 
 * [Официальная документация][maven_docs]
 * [Фреймворк Apache Maven][maven_framework]
@@ -72,7 +72,7 @@
 
 </details>
 
-<details Hamcrest><summary>Hamcrest</summary>
+<details><summary>Hamcrest</summary>
  
  * [Официальная документация][hamcrest_docs]
  * [Список основных операций с описанием][github_hamcrest_cheat_sheet]
@@ -83,7 +83,7 @@
 </details>
 
 
-<details Работа с БД><summary>Работа с БД</summary>
+<details><summary>Работа с БД</summary>
 
 * [JDBC - Java DataBase Connectivity][java_online_jdbc]
 * [SQL Structured Query Language][java_online_sql]
@@ -94,7 +94,7 @@
 </details>
 
 
-<details Stub, Mock><summary>Stub, Mock</summary>
+<details><summary>Stub, Mock</summary>
 
 * [Mockito - официальный сайт][mockito_site]
 * [WireMock - официальный сайт][wiremock_site]
@@ -115,7 +115,7 @@
 </details>
 
 
-<details Mobile Automation><summary>Mobile Automation</summary>
+<details><summary>Mobile Automation</summary>
 
 * [Appium Tutorials][swtestacademy_appium] - список обучающих статей на тему работы с библиотекой Appium
 * [Mobile Automation][swtestacademy_mobile_automation] - список обучающих статей на тему автоматизации мобильных устройств
@@ -126,7 +126,7 @@
 </details>
 
 
-<details JUnit 5><summary>JUnit 5</summary>
+<details><summary>JUnit 5</summary>
 
 * [Официальная документация][junit5_docs]
 * [JUnit 5 Extensions][swtestacademy_junit5_extensions]
@@ -147,7 +147,7 @@
 </details>
 
 
-<details TestNG><summary>TestNG</summary>
+<details><summary>TestNG</summary>
 
 * [Selenium TestNG Tutorial: A Comprehensive Guide, with Examples & Best Practices][lambdatest_testng] - ряд статей по разработке фреймворка AT на TestNG
 
@@ -156,7 +156,7 @@
 </details>
 
 
-<details Protractor><summary>Protractor</summary>
+<details><summary>Protractor</summary>
 
 * [Selenium Protractor Tutorial: A Comprehensive Guide With Examples and Best Practices][lambdatest_protractor] - ряд статей по разработке фреймворка AT с использованием Protractor
 
@@ -165,7 +165,7 @@
 </details>
 
 
-<details Rest Assured><summary>Rest Assured</summary>
+<details><summary>Rest Assured</summary>
 
 * [Rest Assured Tutorial Learn API Testing Step by Step][swtestacademy_rest_assured]
 * [JSON Schema Validation with REST-assured][baeldung_rest_assured_json_schema]
@@ -176,7 +176,7 @@
 </details>
 
 
-<details Lombok><summary>Lombok</summary>
+<details><summary>Lombok</summary>
 
 * [Project Lombok][projectlombok]
 
@@ -185,7 +185,7 @@
 </details>
 
 
-<details Testcontainers><summary>Testcontainers</summary>
+<details><summary>Testcontainers</summary>
 
 * [Couchbase Testcontainers in Spring Boot Tests with JUnit 5][swtestacademy_testcontainers]
 
@@ -194,7 +194,7 @@
 </details>
 
 
-<details Selenium><summary>Selenium</summary>
+<details><summary>Selenium</summary>
 
 * [Официальная документация][selenium_docs]
 * JavaScriptExecutor
@@ -342,7 +342,7 @@
 </details>
 
 
-<details XPath><summary>Locating Elements: XPath, CSS, TagName, Class Name</summary>
+<details><summary>Locating Elements: XPath, CSS, TagName, Class Name</summary>
 
 * [Write Effective XPaths (Eng)][write_effective_xpaths]
 * [XPath в примерах][xpath_tutorial]
@@ -367,7 +367,7 @@
 </details>
 
 
-<details Visual Testing><summary>Visual Testing</summary>
+<details><summary>Visual Testing</summary>
 
 * [Automated Visual Testing using aShot and Selenium Web driver][techblog_ashot]
 * [Ocular - средство для визуальной валидации с Selenium WebDriver][qaat_vizualno_validacii]
@@ -379,7 +379,7 @@
 
 </details>
 
-<details Visual Testing><summary>Visual Testing</summary>
+<details><summary>Контрактное тестирование</summary>
 
 * [Pact][pact_io] - контрактные тесты
 
@@ -388,7 +388,7 @@
 </details>
 
 
-<details Jenkins><summary>Jenkins</summary>
+<details><summary>Jenkins</summary>
 
 * В автоматизации тестирования
   * [How to Integrate Jenkins with Selenium, JAVA, and Maven][swtestacademy_jenkins_selenium_java_maven]
@@ -426,7 +426,7 @@
 </details>
 
 
-<details Docker><summary>Docker</summary>
+<details><summary>Docker</summary>
 
 * Для автоматизации тестирования
   * [Docker Selenium Tutorial for Parallel Testing on Selenium Grid (Eng)][swtestacademy_docker_selenium_tutorial]
@@ -470,7 +470,7 @@
 </details>
 
 
-<details Selenoid><summary>Selenoid</summary>
+<details><summary>Selenoid</summary>
 
 * [Официальная документация][selenoid_docs]
 * [Selenoid Tutorial | Docker-Selenium Alternative for Parallel Testing (Eng)][swtestacademy_selenoid_tutorial]
@@ -493,7 +493,7 @@
 </details>
 
 
-<details Kubernetes><summary>Kubernetes</summary>
+<details><summary>Kubernetes</summary>
 
 * Инструкции по установке и настройке
   * [Selenium and Kubernetes for Scalable Parallel Automated Tests][swtestacademy_kubernetes_parallel]
@@ -510,7 +510,7 @@
 </details>
 
 
-<details Spring Boot><summary>Spring Boot</summary>
+<details><summary>Spring Boot</summary>
 
 * [Selenium Spring Boot Cucumber Junit 5 Test Automation Project (Eng)][swtestacademy_spring_boot]
 
@@ -519,7 +519,7 @@
 </details>
 
 
-<details Проектирование фреймворков><summary>Проектирование фреймворков</summary>
+<details><summary>Проектирование фреймворков</summary>
 
 * [Selenium Automation Hybrid Framework (Data Driven & Modular Driven)][toolsqa_hybrid_framework]
 * [Data Driven Framework (Apache POI – Excel)][toolsqa_data_driven_framework]
@@ -536,7 +536,7 @@
 
 ### Ссылки
 
-<details Курсы><summary>Полезные статьи</summary>
+<details><summary>Полезные статьи</summary>
 
 * [Flaky-тесты: Откуда ноги растут. Опыт Uber][habr_565806]
 * [Пожалуй, лучшая архитектура для UI тестов][habr_523802]
@@ -564,7 +564,7 @@
 
 ### Tools
 
-<details Скрипты проверки версии вебдрайвера и браузера><summary>Скрипты проверки версии вебдрайвера и браузера</summary>
+<details><summary>Скрипты проверки версии вебдрайвера и браузера</summary>
 
 * Для Windows в папке с вебдрайдером выполнить скрипт (Пути и имена файлов при необходимости подкорректировать)
 
@@ -598,7 +598,7 @@ echo "========================================\n\n"
 
 </details>
 
-<details Скрипт добавления прав на запуск вебдрайвера для MacOs и Linux><summary>Скрипт добавления прав на запуск вебдрайвера для MacOs и Linux</summary>
+<details><summary>Скрипт добавления прав на запуск вебдрайвера для MacOs и Linux</summary>
 
 ```
 CHROMEDRIVER_NAME="chromedriver"
