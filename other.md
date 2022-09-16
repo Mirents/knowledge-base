@@ -93,7 +93,9 @@
 * [SQL Задачи и решения][sql_learn]
 * [SQL Tutorial][w3schools_sql]
 * [Java для автоматизаторов][java-auto]
+* [Топ-30 бесплатных курсов обучения по Java 2022 года][habr_687138]
 
+[habr_687138]: https://habr.com/ru/company/katalog_kursov_ru/blog/687138/
 [java-auto]: https://comaqa.gitbook.io/java-automation/
 [freecodecamp]: https://www.freecodecamp.org/
 [w3schools]: https://www.w3schools.com/
