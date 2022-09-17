@@ -32,7 +32,7 @@
 
 </details>
 
-<details><summary>Ссылки</summary>
+<details><summary>Статьи</summary>
 
 * [Справочник по Java Collections Framework][habr_237043]
 * [Структуры данных в Java. Полезные методы вспомогательных классов][habr_476098]
@@ -51,7 +51,9 @@
 * [Шпаргалка Java программиста 8. Библиотеки для работы с Json (Gson, Fastjson, LoganSquare, Jackson, JsonPath и другие)][habr_280782]
 * [Полезные и неизвестные возможности Java][habr_599603]
 * [Общедоступная таблица со ссылками по обучению Java][juja-452ABD]
+* [Принципы SOLID на примерах][habr_688530]
 
+[habr_688530]: https://habr.com/ru/post/688530/
 [juja-452ABD]: http://bit.ly/juja-452ABD
 [habr_237043]: https://habr.com/ru/post/237043/
 [habr_476098]: https://habr.com/ru/company/epam_systems/blog/476098/
