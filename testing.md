@@ -30,8 +30,10 @@
 * [Model-based testing (MBT)][mit_bme_modelbased_testing]
 * [What is Model Based Testing?][guru99_model_based_testing_tutorial]
 * [GraphWalker, an open-source model-based testing tool][graphwalker]
+* [Тестирование на основе моделей: “ужас-ужас” или всё не так страшно?][vimeo_95270260]
 
 [mit_bme_modelbased_testing]: http://mit.bme.hu/~micskeiz/pages/modelbased_testing.html
 [guru99_model_based_testing_tutorial]: https://www.guru99.com/model-based-testing-tutorial.html
 [graphwalker]: https://graphwalker.github.io/
+[vimeo_95270260]: https://vimeo.com/95270260
 </details>
