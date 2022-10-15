@@ -83,6 +83,15 @@
 
 </details>
 
+<details><summary>Regex</summary>
+
+* [Визуальный отладчик][debuggex_visual]
+* [Онлайн редактор][regex101_editor]
+
+[debuggex_visual]: https://www.debuggex.com/
+[regex101_editor]: https://regex101.com/
+</details>
+
 ### Курсы и ресурсы с материалами
 
 <details><summary>Курсы</summary>
